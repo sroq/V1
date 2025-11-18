@@ -1,0 +1,392 @@
+{
+  "success": true,
+  "persona": "Türelmes Haladó",
+  "goal": "Ser Kán konfliktusának megértése",
+  "conversation": [
+    {
+      "role": "user",
+      "content": "Miért üldözi Ser Kán Mauglit?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sajnos a megadott kontextusban nincs információ arról, hogy miért üldözi Ser Kán Mauglit. Ha tudnál adni több részletet a történetről, szívesen segítek!"
+    },
+    {
+      "role": "user",
+      "content": "Ki Ser Kán, és miért utálja az embereket?"
+    },
+    {
+      "role": "assistant",
+      "content": "A megadott kontextusban nincs információ Ser Kánról vagy arról, hogy miért utálja az embereket. Ha tudnál megosztani további részleteket vagy információkat, szívesen segítek a válaszban!"
+    },
+    {
+      "role": "user",
+      "content": "Miért veszélyes Mauglira Ser Kán, ha ő emberi gyerek? Milyen fenyegetést jelent a farkasok számára?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ser Kán veszélyes Mauglira, mert ő egy emberi gyerek, és az emberek, különösen a vadászok, komoly fenyegetést jelentenek a dzsungel állataira. Az emberek megjelenése gyakran a fehér emberek érkezésével jár, akik fegyverekkel és sok más veszéllyel érkeznek, ami a dzsungel állatainak életét veszélyezteti. A farkasok számára Mauglinak, mint emberi gyereknek, az a fenyegetése, hogy ha Ser Kán megöli őt, azzal az embereket is vonzza, akik bosszút állnának, és ezáltal az egész farkascsapat veszélybe kerülne. Az emberek elleni vadászat szabályai a dzsungelben szigorúak, és az emberölés a dzsungel törvényei szerint súlyos következményekkel jár."
+    },
+    {
+      "role": "user",
+      "content": "Hogyan hat Ser Kán múltbéli sérelme Mauglira és a farkasokra, és van-e valamilyen konkrét esemény, ami a konfliktusukat kiváltotta?"
+    },
+    {
+      "role": "assistant",
+      "content": "A megadott kontextusban nem található információ Ser Kán múltbéli sérelmeiről, vagy hogy ez hogyan hat Mauglira és a farkasokra. A konfliktusuk konkrét eseményeiről sem esik szó, így nem tudok részleteket adni erről. Ha további információkat tudsz megosztani, szívesen segítek!"
+    },
+    {
+      "role": "user",
+      "content": "Miért nem találhatóak részletes információk Ser Kán múltbéli sérelmeiről, és hogyan befolyásolja ez a konfliktust Mauglival? Van valami konkrét esemény, amit érdemes lenne tudni?"
+    },
+    {
+      "role": "assistant",
+      "content": "A megadott kontextusban nincsenek részletes információk Ser Kán múltbéli sérelmeiről, így nem tudom megmondani, hogy ezek hogyan befolyásolják a konfliktust Mauglival. Nincs említve konkrét esemény sem, ami a konfliktusukat kiváltotta volna. Ha tudnál több részletet adni, szívesen segítek a válaszban!"
+    },
+    {
+      "role": "user",
+      "content": "Miért nem áll rendelkezésre több információ Ser Kán és Maugli konfliktusáról, és van-e valami más forrás, ahol részletesebben utána tudnék nézni?"
+    },
+    {
+      "role": "assistant",
+      "content": "A megadott kontextusban nem áll rendelkezésre több információ Ser Kán és Mauglia konfliktusáról, ezért nem tudok részletes válaszokat adni. Ha érdekel a téma, ajánlom, hogy olvasd el Rudyard Kipling \"A dzsungel könyve\" című művét, ahol részletesen bemutatják a karakterek közötti viszonyt és a konfliktus okait. Az irodalmi műben található események és háttérinformációk segíthetnek jobban megérteni a történetet és a szereplők motivációit."
+    },
+    {
+      "role": "user",
+      "content": "Van-e valami konkrét részlet vagy elem a \"A dzsungel könyvéből\", ami különösen fontos Ser Kán és Maugli konfliktusának megértéséhez?"
+    },
+    {
+      "role": "assistant",
+      "content": "A megadott kontextusban az egyik fontos részlet, ami Ser Kán és Maugli konfliktusának megértéséhez kapcsolódik, az, hogy Ser Kán a dzsungel törvényei szerint nem bízik az emberekben, és Maugli emberi volta miatt potenciális fenyegetésnek tekinti őt. Ser Kán korábban azt mondta, hogy meg fogja ölni Mauglit, mert az emberek veszélyt jelentenek a dzsungel állataira. \n\nEzen kívül Maugli, amikor már tudatában van a farkasok iránti ellenséges érzéseinek, megmutatja, hogy nem fél Ser Kántól, és felhasználja a tűz erejét (a \"Vörös Virágot\"), hogy megvédje magát és a farkasokat. Ez a részlet kiemeli a konfliktus dinamikáját, amelyben Maugli emberi mivolta, Ser Kán félelme az emberektől, és a dzsungel törvényei játszanak szerepet."
+    },
+    {
+      "role": "user",
+      "content": "Milyen hatással van Maugli emberi mivolta Ser Kán motivációjára, és hogyan tükröződik ez a dzsungel törvényeiben?"
+    },
+    {
+      "role": "assistant",
+      "content": "A megadott kontextusban Maugli emberi mivolta Ser Kán motivációjára úgy hat, hogy Ser Kán ellenségesen viszonyul hozzá, mivel az emberek a dzsungelben veszélyt jelentenek az állatok számára. Ser Kán számára Maugli, mint emberi gyerek, nemcsak egy célpont, hanem a dzsungel törvényeinek megsértését is jelenti, hiszen az emberek általában nem tartoznak a dzsungel állatai közé, és az emberek által elkövetett vadászat kockázatot jelent a farkasok számára.\n\nA dzsungel törvényei szerint az állatoknak meg kell védeniük magukat és a területüket az emberektől, akik fegyverekkel és más eszközökkel rendelkeznek. Maugli emberi mivolta tehát Ser Kán félelmét és gyűlöletét táplálja, hiszen ő az, aki a dzsungel rendjét megzavarhatja, és a farkasok biztonságát veszélyeztetheti. Ez a feszültség a konfliktusuk középpontjában áll."
+    }
+  ],
+  "evaluation": {
+    "goal_achievement": {
+      "goal_reached": true,
+      "success_criteria_met": [
+        "Megtudta Ser Kán motivációját",
+        "Megértette az emberiség vs dzsungel témát",
+        "Megértette a veszély természetét"
+      ],
+      "success_criteria_missed": [],
+      "milestones_reached": 4,
+      "total_milestones": 4,
+      "achievement_score": 100,
+      "reasoning": "A felhasználó elérte a célját, mivel a beszélgetés során sikerült megértenie Ser Kán motivációját, az emberiség és a dzsungel közötti konfliktust, valamint a veszély természetét. Minden mérföldkövet elértek, és a beszélgetés során a felhasználó kérdései és az asszisztens válaszai egyértelműen hozzájárultak a cél eléréséhez."
+    },
+    "conversation_quality": {
+      "coherence_score": 8,
+      "naturalness_score": 7,
+      "information_quality_score": 8,
+      "context_understanding_score": 9,
+      "overall_quality_score": 80,
+      "strengths": [
+        "A válaszok logikusan követik egymást",
+        "Az asszisztens jól érti a kontextust és a karakterek közötti dinamikát"
+      ],
+      "weaknesses": [
+        "A válaszok néha ismétlődnek, ami csökkenti a természetességet",
+        "A kérdésekre adott válaszok nem mindig tartalmaznak elég részletet"
+      ],
+      "reasoning": "A beszélgetés koherens, a kérdések és válaszok logikusan követik egymást, de néhány válasz ismétli a korábbi információkat, ami csökkenti a természetességet. Az információ minősége általában jó, a felhasználó releváns és pontos információkat kap, de néhány válaszban hiányoznak a részletek. Az asszisztens jól érti a kontextust, és a karakterek közötti viszonyokat is jól bemutatja, de a válaszok néha nem elég mélyek."
+    },
+    "response_relevance": {
+      "responses": [
+        {
+          "turn": 1,
+          "user_query": "Miért üldözi Ser Kán Mauglit?",
+          "assistant_response": "Sajnos a megadott kontextusban nincs információ arról, hogy miért üldözi Ser Kán Mauglit. Ha tudnál adni több részletet a történetről, szívesen segítek!",
+          "relevance_score": 3,
+          "accuracy_score": 0,
+          "completeness_score": 2,
+          "reasoning": "A válasz nem ad információt a kérdésre, és nem is utal a történetre."
+        },
+        {
+          "turn": 2,
+          "user_query": "Ki Ser Kán, és miért utálja az embereket?",
+          "assistant_response": "A megadott kontextusban nincs információ Ser Kánról vagy arról, hogy miért utálja az embereket. Ha tudnál megosztani további részleteket vagy információkat, szívesen segítek a válaszban!",
+          "relevance_score": 4,
+          "accuracy_score": 0,
+          "completeness_score": 2,
+          "reasoning": "A válasz nem ad információt Ser Kánról, és nem válaszolja meg a kérdést."
+        },
+        {
+          "turn": 3,
+          "user_query": "Miért veszélyes Mauglira Ser Kán, ha ő emberi gyerek? Milyen fenyegetést jelent a farkasok számára?",
+          "assistant_response": "Ser Kán veszélyes Mauglira, mert ő egy emberi gyerek, és az emberek, különösen a vadászok, komoly fenyegetést jelentenek a dzsungel állataira. Az emberek megjelenése gyakran a fehér emberek érkezésével jár, akik fegyverekkel és sok más veszéllyel érkeznek, ami a dzsungel állatainak életét veszélyezteti. A farkasok számára Mauglinak, mint emberi gyereknek, az a fenyegetése, hogy ha Ser Kán megöli őt, azzal az embereket is vonzza, akik bosszút állnának, és ezáltal az egész farkascsapat veszélybe kerülne. Az emberek elleni vadászat szabályai a dzsungelben szigorúak, és az emberölés a dzsungel törvényei szerint súlyos következményekkel jár.",
+          "relevance_score": 9,
+          "accuracy_score": 8,
+          "completeness_score": 9,
+          "reasoning": "A válasz releváns, pontos információkat ad Ser Kán és Maugli kapcsolatáról, valamint a dzsungel törvényeiről."
+        },
+        {
+          "turn": 4,
+          "user_query": "Hogyan hat Ser Kán múltbéli sérelme Mauglira és a farkasokra, és van-e valamilyen konkrét esemény, ami a konfliktusukat kiváltotta?",
+          "assistant_response": "A megadott kontextusban nem található információ Ser Kán múltbéli sérelmeiről, vagy hogy ez hogyan hat Mauglira és a farkasokra. A konfliktusuk konkrét eseményeiről sem esik szó, így nem tudok részleteket adni erről. Ha további információkat tudsz megosztani, szívesen segítek!",
+          "relevance_score": 5,
+          "accuracy_score": 0,
+          "completeness_score": 3,
+          "reasoning": "A válasz nem ad információt a kérdésre, és nem segít a konfliktus megértésében."
+        },
+        {
+          "turn": 5,
+          "user_query": "Miért nem találhatóak részletes információk Ser Kán múltbéli sérelmeiről, és hogyan befolyásolja ez a konfliktust Mauglival? Van valami konkrét esemény, amit érdemes lenne tudni?",
+          "assistant_response": "A megadott kontextusban nincsenek részletes információk Ser Kán múltbéli sérelmeiről, így nem tudom megmondani, hogy ezek hogyan befolyásolják a konfliktust Mauglival. Nincs említve konkrét esemény sem, ami a konfliktusukat kiváltotta volna. Ha tudnál több részletet adni, szívesen segítek a válaszban!",
+          "relevance_score": 5,
+          "accuracy_score": 0,
+          "completeness_score": 3,
+          "reasoning": "A válasz nem ad információt a kérdésre, és nem segít a konfliktus megértésében."
+        },
+        {
+          "turn": 6,
+          "user_query": "Miért nem áll rendelkezésre több információ Ser Kán és Maugli konfliktusáról, és van-e valami más forrás, ahol részletesebben utána tudnék nézni?",
+          "assistant_response": "A megadott kontextusban nem áll rendelkezésre több információ Ser Kán és Mauglia konfliktusáról, ezért nem tudok részletes válaszokat adni. Ha érdekel a téma, ajánlom, hogy olvasd el Rudyard Kipling \"A dzsungel könyve\" című művét, ahol részletesen bemutatják a karakterek közötti viszonyt és a konfliktus okait. Az irodalmi műben található események és háttérinformációk segíthetnek jobban megérteni a történetet és a szereplők motivációit.",
+          "relevance_score": 8,
+          "accuracy_score": 9,
+          "completeness_score": 8,
+          "reasoning": "A válasz releváns, és ajánl egy forrást, amely segíthet a felhasználónak a téma mélyebb megértésében."
+        },
+        {
+          "turn": 7,
+          "user_query": "Van-e valami konkrét részlet vagy elem a \"A dzsungel könyvéből\", ami különösen fontos Ser Kán és Maugli konfliktusának megértéséhez?",
+          "assistant_response": "A megadott kontextusban az egyik fontos részlet, ami Ser Kán és Maugli konfliktusának megértéséhez kapcsolódik, az, hogy Ser Kán a dzsungel törvényei szerint nem bízik az emberekben, és Maugli emberi volta miatt potenciális fenyegetésnek tekinti őt. Ser Kán korábban azt mondta, hogy meg fogja ölni Mauglit, mert az emberek veszélyt jelentenek a dzsungel állataira. Ezen kívül Maugli, amikor már tudatában van a farkasok iránti ellenséges érzéseinek, megmutatja, hogy nem fél Ser Kántól, és felhasználja a tűz erejét (a \"Vörös Virágot\"), hogy megvédje magát és a farkasokat. Ez a részlet kiemeli a konfliktus dinamikáját, amelyben Maugli emberi mivolta, Ser Kán félelme az emberektől, és a dzsungel törvényei játszanak szerepet.",
+          "relevance_score": 9,
+          "accuracy_score": 9,
+          "completeness_score": 9,
+          "reasoning": "A válasz releváns, pontos és részletes információkat ad a konfliktus megértéséhez."
+        },
+        {
+          "turn": 8,
+          "user_query": "Milyen hatással van Maugli emberi mivolta Ser Kán motivációjára, és hogyan tükröződik ez a dzsungel törvényeiben?",
+          "assistant_response": "A megadott kontextusban Maugli emberi mivolta Ser Kán motivációjára úgy hat, hogy Ser Kán ellenségesen viszonyul hozzá, mivel az emberek a dzsungelben veszélyt jelentenek az állatok számára. Ser Kán számára Maugli, mint emberi gyerek, nemcsak egy célpont, hanem a dzsungel törvényeinek megsértését is jelenti, hiszen az emberek általában nem tartoznak a dzsungel állatai közé, és az emberek által elkövetett vadászat kockázatot jelent a farkasok számára. A dzsungel törvényei szerint az állatoknak meg kell védeniük magukat és a területüket az emberektől, akik fegyverekkel és más eszközökkel rendelkeznek. Maugli emberi mivolta tehát Ser Kán félelmét és gyűlöletét táplálja, hiszen ő az, aki a dzsungel rendjét megzavarhatja, és a farkasok biztonságát veszélyeztetheti. Ez a feszültség a konfliktusuk középpontjában áll.",
+          "relevance_score": 9,
+          "accuracy_score": 9,
+          "completeness_score": 9,
+          "reasoning": "A válasz releváns, pontos és részletes információkat ad a konfliktus dinamikájáról."
+        }
+      ],
+      "average_relevance": 6.25,
+      "average_accuracy": 5.25,
+      "average_completeness": 6.25,
+      "overall_relevance_score": 62
+    },
+    "user_experience": {
+      "frustration_detected": true,
+      "turn_count": 9,
+      "appropriate_for_persona": false,
+      "overall_experience": "negative",
+      "ux_score": 35,
+      "pain_points": [
+        "Többször ismétlődő válaszok, amelyek nem adtak új információt.",
+        "A felhasználó kérdéseire nem kaptak kielégítő válaszokat.",
+        "A válaszok nem voltak elég részletesek a felhasználó igényeihez képest."
+      ],
+      "delightful_moments": [
+        "Az utolsó válaszban a dzsungel törvényeinek említése releváns volt."
+      ],
+      "reasoning": "A felhasználó frusztrációt tapasztalt, mivel a kérdéseire nem kaptak kielégítő válaszokat, és a válaszok többször is ismétlődtek, ami nem segítette a megértést. A válaszok stílusa nem volt megfelelő a 'Türelmes Haladó' személyiség számára, aki közepes szintű szakértelemmel rendelkezik, és elvárja, hogy a válaszok részletesebbek és informatívabbak legyenek. Az élmény összességében negatív volt, mivel a felhasználó nem érte el a célját, és a válaszok nem feleltek meg az elvárásainak."
+    },
+    "efficiency": {
+      "expected_turns": 4,
+      "actual_turns": 8,
+      "turn_efficiency": 50,
+      "redundancy_detected": true,
+      "time_wasted_turns": 4,
+      "efficiency_score": 40,
+      "reasoning": "A beszélgetés során a felhasználó többször is ugyanazokat a kérdéseket tette fel, amelyekre az asszisztens nem tudott kielégítő választ adni, mivel a kontextusban nem álltak rendelkezésre a szükséges információk. Az asszisztens válaszai gyakran ismételték a hiányzó információkra vonatkozó megjegyzéseket, ami redundanciát eredményezett. A beszélgetés nem jutott el a célhoz, mivel a felhasználó kérdései nem kaptak megfelelő válaszokat, és a válaszok nem segítették elő a téma mélyebb megértését."
+    },
+    "overall_score": 75.9,
+    "metadata": {
+      "turns": 8,
+      "duration_s": 52.35176706314087,
+      "user_progress": {
+        "milestones_reached": 4,
+        "total_milestones": 4,
+        "progress_percentage": 100.0,
+        "goal_reached": true,
+        "current_turn": 8,
+        "frustration_level": 3
+      },
+      "performance": {
+        "avg_api_latency_ms": 5321.88,
+        "min_api_latency_ms": 2199,
+        "max_api_latency_ms": 11470,
+        "avg_ttft_ms": 2102.38,
+        "min_ttft_ms": 894,
+        "max_ttft_ms": 5663,
+        "avg_tokens_per_second": 11.97,
+        "min_tokens_per_second": 7.36,
+        "max_tokens_per_second": 17.43,
+        "total_tokens": 503,
+        "total_retries": 0,
+        "turn_count": 8
+      }
+    },
+    "conversation": [
+      {
+        "role": "user",
+        "content": "Miért üldözi Ser Kán Mauglit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sajnos a megadott kontextusban nincs információ arról, hogy miért üldözi Ser Kán Mauglit. Ha tudnál adni több részletet a történetről, szívesen segítek!"
+      },
+      {
+        "role": "user",
+        "content": "Ki Ser Kán, és miért utálja az embereket?"
+      },
+      {
+        "role": "assistant",
+        "content": "A megadott kontextusban nincs információ Ser Kánról vagy arról, hogy miért utálja az embereket. Ha tudnál megosztani további részleteket vagy információkat, szívesen segítek a válaszban!"
+      },
+      {
+        "role": "user",
+        "content": "Miért veszélyes Mauglira Ser Kán, ha ő emberi gyerek? Milyen fenyegetést jelent a farkasok számára?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ser Kán veszélyes Mauglira, mert ő egy emberi gyerek, és az emberek, különösen a vadászok, komoly fenyegetést jelentenek a dzsungel állataira. Az emberek megjelenése gyakran a fehér emberek érkezésével jár, akik fegyverekkel és sok más veszéllyel érkeznek, ami a dzsungel állatainak életét veszélyezteti. A farkasok számára Mauglinak, mint emberi gyereknek, az a fenyegetése, hogy ha Ser Kán megöli őt, azzal az embereket is vonzza, akik bosszút állnának, és ezáltal az egész farkascsapat veszélybe kerülne. Az emberek elleni vadászat szabályai a dzsungelben szigorúak, és az emberölés a dzsungel törvényei szerint súlyos következményekkel jár."
+      },
+      {
+        "role": "user",
+        "content": "Hogyan hat Ser Kán múltbéli sérelme Mauglira és a farkasokra, és van-e valamilyen konkrét esemény, ami a konfliktusukat kiváltotta?"
+      },
+      {
+        "role": "assistant",
+        "content": "A megadott kontextusban nem található információ Ser Kán múltbéli sérelmeiről, vagy hogy ez hogyan hat Mauglira és a farkasokra. A konfliktusuk konkrét eseményeiről sem esik szó, így nem tudok részleteket adni erről. Ha további információkat tudsz megosztani, szívesen segítek!"
+      },
+      {
+        "role": "user",
+        "content": "Miért nem találhatóak részletes információk Ser Kán múltbéli sérelmeiről, és hogyan befolyásolja ez a konfliktust Mauglival? Van valami konkrét esemény, amit érdemes lenne tudni?"
+      },
+      {
+        "role": "assistant",
+        "content": "A megadott kontextusban nincsenek részletes információk Ser Kán múltbéli sérelmeiről, így nem tudom megmondani, hogy ezek hogyan befolyásolják a konfliktust Mauglival. Nincs említve konkrét esemény sem, ami a konfliktusukat kiváltotta volna. Ha tudnál több részletet adni, szívesen segítek a válaszban!"
+      },
+      {
+        "role": "user",
+        "content": "Miért nem áll rendelkezésre több információ Ser Kán és Maugli konfliktusáról, és van-e valami más forrás, ahol részletesebben utána tudnék nézni?"
+      },
+      {
+        "role": "assistant",
+        "content": "A megadott kontextusban nem áll rendelkezésre több információ Ser Kán és Mauglia konfliktusáról, ezért nem tudok részletes válaszokat adni. Ha érdekel a téma, ajánlom, hogy olvasd el Rudyard Kipling \"A dzsungel könyve\" című művét, ahol részletesen bemutatják a karakterek közötti viszonyt és a konfliktus okait. Az irodalmi műben található események és háttérinformációk segíthetnek jobban megérteni a történetet és a szereplők motivációit."
+      },
+      {
+        "role": "user",
+        "content": "Van-e valami konkrét részlet vagy elem a \"A dzsungel könyvéből\", ami különösen fontos Ser Kán és Maugli konfliktusának megértéséhez?"
+      },
+      {
+        "role": "assistant",
+        "content": "A megadott kontextusban az egyik fontos részlet, ami Ser Kán és Maugli konfliktusának megértéséhez kapcsolódik, az, hogy Ser Kán a dzsungel törvényei szerint nem bízik az emberekben, és Maugli emberi volta miatt potenciális fenyegetésnek tekinti őt. Ser Kán korábban azt mondta, hogy meg fogja ölni Mauglit, mert az emberek veszélyt jelentenek a dzsungel állataira. \n\nEzen kívül Maugli, amikor már tudatában van a farkasok iránti ellenséges érzéseinek, megmutatja, hogy nem fél Ser Kántól, és felhasználja a tűz erejét (a \"Vörös Virágot\"), hogy megvédje magát és a farkasokat. Ez a részlet kiemeli a konfliktus dinamikáját, amelyben Maugli emberi mivolta, Ser Kán félelme az emberektől, és a dzsungel törvényei játszanak szerepet."
+      },
+      {
+        "role": "user",
+        "content": "Milyen hatással van Maugli emberi mivolta Ser Kán motivációjára, és hogyan tükröződik ez a dzsungel törvényeiben?"
+      },
+      {
+        "role": "assistant",
+        "content": "A megadott kontextusban Maugli emberi mivolta Ser Kán motivációjára úgy hat, hogy Ser Kán ellenségesen viszonyul hozzá, mivel az emberek a dzsungelben veszélyt jelentenek az állatok számára. Ser Kán számára Maugli, mint emberi gyerek, nemcsak egy célpont, hanem a dzsungel törvényeinek megsértését is jelenti, hiszen az emberek általában nem tartoznak a dzsungel állatai közé, és az emberek által elkövetett vadászat kockázatot jelent a farkasok számára.\n\nA dzsungel törvényei szerint az állatoknak meg kell védeniük magukat és a területüket az emberektől, akik fegyverekkel és más eszközökkel rendelkeznek. Maugli emberi mivolta tehát Ser Kán félelmét és gyűlöletét táplálja, hiszen ő az, aki a dzsungel rendjét megzavarhatja, és a farkasok biztonságát veszélyeztetheti. Ez a feszültség a konfliktusuk középpontjában áll."
+      }
+    ]
+  },
+  "metadata": {
+    "turns": 8,
+    "duration_s": 52.35176706314087,
+    "user_progress": {
+      "milestones_reached": 4,
+      "total_milestones": 4,
+      "progress_percentage": 100.0,
+      "goal_reached": true,
+      "current_turn": 8,
+      "frustration_level": 3
+    },
+    "performance": {
+      "avg_api_latency_ms": 5321.88,
+      "min_api_latency_ms": 2199,
+      "max_api_latency_ms": 11470,
+      "avg_ttft_ms": 2102.38,
+      "min_ttft_ms": 894,
+      "max_ttft_ms": 5663,
+      "avg_tokens_per_second": 11.97,
+      "min_tokens_per_second": 7.36,
+      "max_tokens_per_second": 17.43,
+      "total_tokens": 503,
+      "total_retries": 0,
+      "turn_count": 8
+    },
+    "per_turn_performance": [
+      {
+        "total_duration_ms": 2199,
+        "api_latency_ms": 2199,
+        "ttft_ms": 1086,
+        "response_tokens": 22,
+        "tokens_per_second": 10.0,
+        "retry_count": 0
+      },
+      {
+        "total_duration_ms": 2329,
+        "api_latency_ms": 2329,
+        "ttft_ms": 1074,
+        "response_tokens": 25,
+        "tokens_per_second": 10.73,
+        "retry_count": 0
+      },
+      {
+        "total_duration_ms": 7680,
+        "api_latency_ms": 7680,
+        "ttft_ms": 2048,
+        "response_tokens": 92,
+        "tokens_per_second": 11.98,
+        "retry_count": 0
+      },
+      {
+        "total_duration_ms": 5296,
+        "api_latency_ms": 5296,
+        "ttft_ms": 3634,
+        "response_tokens": 39,
+        "tokens_per_second": 7.36,
+        "retry_count": 0
+      },
+      {
+        "total_duration_ms": 3309,
+        "api_latency_ms": 3309,
+        "ttft_ms": 1459,
+        "response_tokens": 40,
+        "tokens_per_second": 12.09,
+        "retry_count": 0
+      },
+      {
+        "total_duration_ms": 3638,
+        "api_latency_ms": 3638,
+        "ttft_ms": 894,
+        "response_tokens": 61,
+        "tokens_per_second": 16.77,
+        "retry_count": 0
+      },
+      {
+        "total_duration_ms": 11470,
+        "api_latency_ms": 11470,
+        "ttft_ms": 5663,
+        "response_tokens": 108,
+        "tokens_per_second": 9.42,
+        "retry_count": 0
+      },
+      {
+        "total_duration_ms": 6654,
+        "api_latency_ms": 6654,
+        "ttft_ms": 961,
+        "response_tokens": 116,
+        "tokens_per_second": 17.43,
+        "retry_count": 0
+      }
+    ]
+  }
+}

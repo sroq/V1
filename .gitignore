@@ -108,13 +108,8 @@ prometheus-data/
 grafana-data/
 signoz-config/
 
-# Evaluation Results (can regenerate)
-rag-level-evaluation/results/
-rag-level-evaluation/data/generated_questions.json
-rag-level-evaluation/data/evaluation_results.json
-single-turn-evaluation/results/
-single-turn-evaluation/data/
-multi-turn-evaluation/results/
+# Note: Evaluation Results directories are now included in the repository
+# to show example outputs and structure to users
 
 # Keep these files but exclude sensitive data
 !.env.example

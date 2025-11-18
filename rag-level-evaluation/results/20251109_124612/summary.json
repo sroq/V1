@@ -1,0 +1,20 @@
+{
+  "total_queries": 78,
+  "hit_rate_at_k_percentage": 94.87179487179486,
+  "first_position_accuracy_percentage": 62.82051282051282,
+  "average_rank": 1.5,
+  "average_similarity": 0.5715568044123798,
+  "found_count": 74,
+  "found_percentage": 94.87179487179486,
+  "mrr": 0.7675213675213676,
+  "avg_precision_at_1": 0.6282051282051282,
+  "avg_precision_at_3": 0.3034188034188033,
+  "avg_precision_at_5": 0.18974358974358965,
+  "avg_precision_at_10": 0.09487179487179483,
+  "avg_recall_at_1": 0.6282051282051282,
+  "avg_recall_at_3": 0.9102564102564102,
+  "avg_recall_at_5": 0.9487179487179487,
+  "avg_recall_at_10": 0.9487179487179487,
+  "top_k_recall_percentage": 94.87179487179486,
+  "top_1_precision_percentage": 62.82051282051282
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-11T20:24:52.810731",
+    "dataset_id": "jungle_book_golden_v1"
+  },
+  "metrics": {
+    "overall": {
+      "total_evaluations": 25,
+      "correctness_rate": 44.0,
+      "relevance_rate": 100.0,
+      "both_correct_and_relevant": 11,
+      "both_rate": 44.0,
+      "correct_count": 11,
+      "relevant_count": 25
+    },
+    "by_category": {
+      "factual": {
+        "total": 1,
+        "correct": 0,
+        "relevant": 1,
+        "correctness_rate": 0.0,
+        "relevance_rate": 100.0
+      },
+      "detail": {
+        "total": 24,
+        "correct": 11,
+        "relevant": 24,
+        "correctness_rate": 45.83333333333333,
+        "relevance_rate": 100.0
+      }
+    },
+    "by_difficulty": {
+      "easy": {
+        "total": 25,
+        "correct": 11,
+        "relevant": 25,
+        "correctness_rate": 44.0,
+        "relevance_rate": 100.0
+      }
+    }
+  }
+}

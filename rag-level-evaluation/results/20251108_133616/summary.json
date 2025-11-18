@@ -1,0 +1,9 @@
+{
+  "total_queries": 78,
+  "top_k_recall_percentage": 5.128205128205128,
+  "top_1_precision_percentage": 5.128205128205128,
+  "average_rank": 1.0,
+  "average_similarity": 0.7310726382136543,
+  "found_count": 4,
+  "found_percentage": 5.128205128205128
+}

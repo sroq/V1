@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "dataset_id": "jungle_book_golden_v1",
+    "created_at": "2025-11-11T20:05:08.240742",
+    "total_pairs": 25,
+    "target_size": 25,
+    "category_distribution": {
+      "factual": 5,
+      "detail": 8,
+      "comprehension": 8,
+      "multi_chunk": 4
+    },
+    "model_used": "gpt-4o-mini"
+  },
+  "entries": [
+    {
+      "id": "q001",
+      "question": "Who is the author of \"The Jungle Book\"?",
+      "ground_truth_answer": "The author of \"The Jungle Book\" is Rudyard Kipling. The book was published in 1894.",
+      "source_chunk_id": "752db7d8-9a5f-45c6-958b-025b59d39d70",
+      "category": "factual",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "Title: The Jungle Book\n\nAuthor: Rudyard Kipling\n\nYear: 1894...",
+        "created_at": "2025-11-11T20:04:09.461362"
+      }
+    },
+    {
+      "id": "q002",
+      "question": "What does Tabaqui find to eat in Father Wolf's cave?",
+      "ground_truth_answer": "Tabaqui, the jackal, finds a dry bone with some meat on it in Father Wolf's cave. He expresses his satisfaction by saying, \"All thanks for this good meal,\" after cracking the bone merrily.",
+      "source_chunk_id": "2f106bda-fac4-4dd1-9ec6-5180d26e0304",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "Mowgli's Brothers\n\nNow Rann the Kite brings home the night That Mang the Bat sets free-- The herds are shut in byre and hut For loosed till dawn are we. This is the hour of pride and power, Talon and ...",
+        "created_at": "2025-11-11T20:04:11.949530"
+      }
+    },
+    {
+      "id": "q003",
+      "question": "What did Father Wolf think about Shere Khan's request for the man's cub?",
+      "ground_truth_answer": "Father Wolf was very angry about Shere Khan's request for the man's cub. He said, \"What does Shere Khan need?\" and was clearly protective, knowing that the cave was too narrow for the tiger to enter and that Shere Khan's intentions were not honorable.",
+      "source_chunk_id": "1c2fe2bd-5bcc-469e-935e-45990b953277",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"H'sh. It is neither bullock nor buck he hunts to-night,\" said Mother Wolf. \"It is Man.\"\n\nThe whine had changed to a sort of humming purr that seemed to come from every quarter of the compass. It was ...",
+        "created_at": "2025-11-11T20:04:13.444940"
+      }
+    },
+    {
+      "id": "q004",
+      "question": "What does the Law of the Jungle require a wolf to do when his cubs are old enough?",
+      "ground_truth_answer": "The Law of the Jungle requires that when a wolf's cubs are old enough to stand on their feet, he must bring them to the Pack Council for identification. This council is generally held once a month at the full moon, as stated in the excerpt: \"as soon as his cubs are old enough to stand on their feet he must bring them to the Pack Council.\"",
+      "source_chunk_id": "5281b368-0a70-411b-88a7-43bfb17f2faa",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"The Wolves are a free people,\" said Father Wolf. \"They take orders from the Head of the Pack, and not from any striped cattle-killer. The man's cub is ours--to kill if we choose.\"\n\n\"Ye choose and ye ...",
+        "created_at": "2025-11-11T20:04:18.249526"
+      }
+    },
+    {
+      "id": "q005",
+      "question": "What did Bagheera propose regarding the life of the man's cub at the Pack Council?",
+      "ground_truth_answer": "Bagheera proposed that the life of the man's cub could be bought at a price, stating, \"the Law of the Jungle says that if there is a doubt which is not a killing matter in regard to a new cub, the life of that cub may be bought at a price.\" He acknowledged that he had no right to speak but sought permission from the assembly to present his proposal.",
+      "source_chunk_id": "f396c4c5-1a1f-428c-b61e-7a16032cf324",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "Father Wolf waited till his cubs could run a little, and then on the night of the Pack Meeting took them and Mowgli and Mother Wolf to the Council Rock--a hilltop covered with stones and boulders wher...",
+        "created_at": "2025-11-11T20:04:20.331452"
+      }
+    },
+    {
+      "id": "q006",
+      "question": "What was the price paid for Mowgli to be accepted into the Seeonee Wolf Pack?",
+      "ground_truth_answer": "The price paid for Mowgli to be accepted into the Seeonee Wolf Pack was one bull, described as \"a fat one, newly killed, not half a mile from here.\" This offer was made by Bagheera, who added it to Baloo's support for Mowgli, leading to his acceptance by the wolves.",
+      "source_chunk_id": "220a3705-5a7d-4987-8875-3d5b95a5fb57",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"Speak then,\" cried twenty voices.\n\n\"To kill a naked cub is shame. Besides, he may make better sport for you when he is grown. Baloo has spoken in his behalf. Now to Baloo's word I will add one bull, ...",
+        "created_at": "2025-11-11T20:04:21.987202"
+      }
+    },
+    {
+      "id": "q007",
+      "question": "What did Bagheera teach Mowgli about the Law of the Jungle regarding cattle?",
+      "ground_truth_answer": "Bagheera taught Mowgli that he must never touch cattle because he had been accepted into the Pack at the price of a bull's life. He explained, \"All the jungle is thine... but for the sake of the bull that bought thee thou must never kill or eat any cattle young or old. That is the Law of the Jungle.\" Mowgli obeyed this law faithfully.",
+      "source_chunk_id": "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "Now you must be content to skip ten or eleven whole years, and only guess at all the wonderful life that Mowgli led among the wolves, because if it were written out it would fill ever so many books. H...",
+        "created_at": "2025-11-11T20:04:23.772686"
+      }
+    },
+    {
+      "id": "q008",
+      "question": "What does Bagheera tell Mowgli about the reason the other wolves might want to kill him?",
+      "ground_truth_answer": "Bagheera explains to Mowgli that the other wolves might want to kill him because \"not even I can look thee between the eyes,\" implying that they hate him for being different and wise. He adds that their hatred stems from the fact that Mowgli is a man and has helped the wolves by \"pulling out thorns from their feet,\" yet they still see him as an outsider.",
+      "source_chunk_id": "7a846e8e-61a2-4fbb-99e5-3a5221a23be9",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "It was one very warm day that a new notion came to Bagheera--born of something that he had heard. Perhaps Ikki the Porcupine had told him; but he said to Mowgli when they were deep in the jungle, as t...",
+        "created_at": "2025-11-11T20:04:26.884193"
+      }
+    },
+    {
+      "id": "q009",
+      "question": "What did Bagheera mean by the \"Red Flower\"?",
+      "ground_truth_answer": "By the \"Red Flower,\" Bagheera meant fire, as he indicated when he said, \"Every beast lives in deadly fear of it, and invents a hundred ways of describing it.\" Mowgli understood that the Red Flower grows outside the men's huts and resolved to get some for future use, demonstrating his readiness to confront Shere Khan.",
+      "source_chunk_id": "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"What is the Law of the Jungle? Strike first and then give tongue. By thy very carelessness they know that thou art a man. But be wise. It is in my heart that when Akela misses his next kill--and at e...",
+        "created_at": "2025-11-11T20:04:29.390574"
+      }
+    },
+    {
+      "id": "q010",
+      "question": "What did Mowgli do with the fire pot while sitting in the cave?",
+      "ground_truth_answer": "While sitting in the cave, Mowgli tended to his fire pot and experimented with dipping dry branches into it to see how they looked. He found a branch that satisfied him, which he used in the fire pot before going to the Council Rock. Mowgli's interaction with the fire pot reflects his curiosity and enjoyment of the Red Flower.",
+      "source_chunk_id": "d9900e94-1cbe-4869-b696-6e24c89cd109",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"Good! Now, I have seen men thrust a dry branch into that stuff, and presently the Red Flower blossomed at the end of it. Art thou not afraid?\"\n\n\"No. Why should I fear? I remember now--if it is not a ...",
+        "created_at": "2025-11-11T20:04:31.352409"
+      }
+    },
+    {
+      "id": "q011",
+      "question": "What does Mowgli promise to the Pack before he leaves them?",
+      "ground_truth_answer": "Before leaving the Pack, Mowgli promises that he will not betray them to men, saying, \"Because I was all but your brother in blood, I promise that when I am a man among men I will not betray ye to men as ye have betrayed me.\" He also vows that there shall be \"no war between any of us in the Pack.\"",
+      "source_chunk_id": "b974662e-3088-43c9-8798-84dbe964508f",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"He is our brother in all but blood,\" Akela went on, \"and ye would kill him here! In truth, I have lived too long. Some of ye are eaters of cattle, and of others I have heard that, under Shere Khan's ...",
+        "created_at": "2025-11-11T20:04:35.375825"
+      }
+    },
+    {
+      "id": "q012",
+      "question": "What did Mowgli promise to do when he returned to the jungle?",
+      "ground_truth_answer": "Mowgli promised that when he returned to the jungle, it would be \"to lay out Shere Khan's hide upon the Council Rock.\" He also asked his family not to forget him, saying, \"Tell them in the jungle never to forget me!\"",
+      "source_chunk_id": "81d1f337-0dc4-4ac5-beca-5108d20890e2",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"Pah! Singed jungle cat--go now! But remember when next I come to the Council Rock, as a man should come, it will be with Shere Khan's hide on my head. For the rest, Akela goes free to live as he plea...",
+        "created_at": "2025-11-11T20:04:37.166878"
+      }
+    },
+    {
+      "id": "q013",
+      "question": "What did the Sambhur do as dawn was breaking in the Hunting-Song of the Seeonee Pack?",
+      "ground_truth_answer": "As dawn was breaking, the Sambhur belled \"Once, twice and again!\" This call was heard by a wolf who then carried the word to the waiting pack, leading them to seek and find the prey.",
+      "source_chunk_id": "648ab646-0060-44ae-9642-a5c06ab176c1",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "Hunting-Song of the Seeonee Pack\n\nAs the dawn was breaking the Sambhur belled Once, twice and again! And a doe leaped up, and a doe leaped up From the pond in the wood where the wild deer sup. This I,...",
+        "created_at": "2025-11-11T20:04:38.524989"
+      }
+    },
+    {
+      "id": "q014",
+      "question": "What did Baloo say to Bagheera when Mowgli had been cuffed and ran off in a temper?",
+      "ground_truth_answer": "Baloo said to Bagheera, \"A man's cub is a man's cub, and he must learn all the Law of the Jungle.\" This was in response to Mowgli running off in a temper after being cuffed, indicating Baloo's belief in the importance of teaching Mowgli despite his small size.",
+      "source_chunk_id": "10763cd2-758a-469b-9d0a-75ef5b9e972a",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "Kaa's Hunting\n\nHis spots are the joy of the Leopard: his horns are the Buffalo's pride. Be clean, for the strength of the hunter is known by the gloss of his hide. If ye find that the Bullock can toss...",
+        "created_at": "2025-11-11T20:04:40.457831"
+      }
+    },
+    {
+      "id": "q015",
+      "question": "What did the Monkey People offer Mowgli when they found him?",
+      "ground_truth_answer": "The Monkey People, or the Bandar-log, offered Mowgli nuts and pleasant things to eat when they found him. They also carried him in their arms up to the top of the trees and claimed he was their blood brother, saying he would be their leader one day. Mowgli mentioned, \"they were very kind and bade me come again.\"",
+      "source_chunk_id": "a7e3241a-1bef-480d-9cf5-2c7220d6079b",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"My head is ringing like a bee tree,\" said a sullen little voice over their heads, and Mowgli slid down a tree trunk very angry and indignant, adding as he reached the ground: \"I come for Bagheera and...",
+        "created_at": "2025-11-11T20:04:42.867952"
+      }
+    },
+    {
+      "id": "q016",
+      "question": "What did Baloo say about the Monkey-Folk and their way of life?",
+      "ground_truth_answer": "Baloo described the Monkey-Folk as \"outcasts\" who \"have no law\" and \"no speech of their own,\" using \"stolen words\" instead. He noted that they are \"very many, evil, dirty, shameless,\" and lack leaders or memory, often engaging in foolish behavior, like throwing nuts and filth. Baloo emphasized that the Jungle-People do not associate with the monkeys, stating, \"We do not drink where the monkeys drink; we do not go where the monkeys go.\"",
+      "source_chunk_id": "23185e9a-b8ee-48c5-b2e0-de52fc5667e0",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"Listen, man-cub,\" said the Bear, and his voice rumbled like thunder on a hot night. \"I have taught thee all the Law of the Jungle for all the peoples of the jungle--except the Monkey-Folk who live in...",
+        "created_at": "2025-11-11T20:04:45.828736"
+      }
+    },
+    {
+      "id": "q017",
+      "question": "What did Mowgli shout to Rann the Kite while being swung through the air by the monkeys?",
+      "ground_truth_answer": "While being swung through the air by the monkeys, Mowgli shouted to Rann the Kite, \"Mark my trail! Tell Baloo of the Seeonee Pack and Bagheera of the Council Rock.\" He introduced himself as \"Mowgli, the Frog. Man-cub they call me!\"",
+      "source_chunk_id": "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "The next thing he remembered was feeling hands on his legs and arms--hard, strong, little hands--and then a swash of branches in his face, and then he was staring down through the swaying boughs as Ba...",
+        "created_at": "2025-11-11T20:04:48.248089"
+      }
+    },
+    {
+      "id": "q018",
+      "question": "What did Baloo wish he had done instead of breaking Mowgli's head?",
+      "ground_truth_answer": "Baloo wished he had warned Mowgli against the Monkey-Folk instead of breaking his head. He expressed his regret by saying, \"Oh, fat, brown, root-digging fool that I am,\" acknowledging that he should have taught Mowgli to be cautious instead of injuring him.",
+      "source_chunk_id": "7b029954-e578-41d2-ba63-a08e299866cb",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"Why didst thou not warn the man-cub?\" he roared to poor Baloo, who had set off at a clumsy trot in the hope of overtaking the monkeys. \"What was the use of half slaying him with blows if thou didst n...",
+        "created_at": "2025-11-11T20:04:50.188638"
+      }
+    },
+    {
+      "id": "q019",
+      "question": "What did Kaa say about the Bandar-log's behavior towards the man-cub?",
+      "ground_truth_answer": "Kaa expressed that the man-cub is not in good luck while in the hands of the Bandar-log, stating, \"They grow tired of the nuts they pick, and throw them down,\" indicating their fickle and careless nature. He also referred to the monkeys as \"chattering, foolish, vain,\" highlighting their untrustworthy behavior.",
+      "source_chunk_id": "6565dcc7-e3d8-4540-844a-9ad623cd3a61",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"Good hunting for us all,\" he answered. \"Oho, Baloo, what dost thou do here? Good hunting, Bagheera. One of us at least needs food. Is there any news of game afoot? A doe now, or even a young buck? I ...",
+        "created_at": "2025-11-11T20:04:54.530936"
+      }
+    },
+    {
+      "id": "q020",
+      "question": "What did Rann the Kite tell Baloo about Mowgli's whereabouts?",
+      "ground_truth_answer": "Rann the Kite informed Baloo that he had seen Mowgli among the Bandar-log and that they had taken him beyond the river to the monkey city, known as the Cold Lairs. Rann mentioned, \"They may stay there for a night, or ten nights, or an hour,\" and he advised that the bats would watch through the dark time.",
+      "source_chunk_id": "d0b16fc2-dcad-451b-af11-4d5376791cd4",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"We must remind them to speak well of their master. Aaa-ssp! We must help their wandering memories. Now, whither went they with the cub?\"\n\n\"The jungle alone knows. Toward the sunset, I believe,\" said ...",
+        "created_at": "2025-11-11T20:04:56.672378"
+      }
+    },
+    {
+      "id": "q021",
+      "question": "What did Mowgli wish for when he felt sore and angry after being captured by the monkeys?",
+      "ground_truth_answer": "When Mowgli felt sore and angry after being captured by the monkeys, he said, \"I wish to eat,\" and requested, \"Bring me food, or give me leave to hunt here.\" Despite the monkeys bounding away to bring him food, they ended up fighting and brought back little to him, leaving Mowgli feeling that he had reached a very bad place indeed.",
+      "source_chunk_id": "dfd2168c-ea5b-4105-85b1-09c02a783020",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "A great roofless palace crowned the hill, and the marble of the courtyards and the fountains was split, and stained with red and green, and the very cobblestones in the courtyard where the king's elep...",
+        "created_at": "2025-11-11T20:04:58.919978"
+      }
+    },
+    {
+      "id": "q022",
+      "question": "What did the monkeys do when they saw Bagheera on the terrace?",
+      "ground_truth_answer": "When the monkeys saw Bagheera on the terrace, they were filled with fright and rage. One monkey shouted, \"There is only one here! Kill him! Kill,\" and a scuffling mass of monkeys closed in on Bagheera while a few others dragged Mowgli up the wall of the summerhouse.",
+      "source_chunk_id": "17955493-17d2-4384-b3fc-ffe765949299",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "No sooner had he walked to the city wall than the monkeys pulled him back, telling him that he did not know how happy he was, and pinching him to make him grateful. He set his teeth and said nothing, ...",
+        "created_at": "2025-11-11T20:05:00.598440"
+      }
+    },
+    {
+      "id": "q023",
+      "question": "What did Bagheera do when he realized he needed protection during the fight with the monkeys?",
+      "ground_truth_answer": "When Bagheera realized he needed protection during the fight with the monkeys, he lifted his dripping chin and, in despair, gave the Snake's Call for help, saying, \"We be of one blood, ye and I,\" believing that Kaa had turned tail at the last minute. This call was made as he lay gasping for breath in the tank, surrounded by the enraged monkeys.",
+      "source_chunk_id": "a67d1f1b-9fb4-4215-b548-4ad34fa10536",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"We be of one blood, ye and I,\" said Mowgli, quickly giving the Snake's Call. He could hear rustling and hissing in the rubbish all round him and gave the Call a second time, to make sure.\n\n\"Even ssso...",
+        "created_at": "2025-11-11T20:05:04.352599"
+      }
+    },
+    {
+      "id": "q024",
+      "question": "What did Mowgli promise Kaa after being saved from the trap?",
+      "ground_truth_answer": "After being saved from the trap by Kaa, Mowgli promised, \"I take my life from thee tonight. My kill shall be thy kill if ever thou art hungry, O Kaa.\" This indicates his gratitude and commitment to Kaa, acknowledging their bond and his willingness to assist Kaa in the future.",
+      "source_chunk_id": "b24e4257-2402-4644-a318-b680acf364cf",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "Generations of monkeys had been scared into good behavior by the stories their elders told them of Kaa, the night thief, who could slip along the branches as quietly as moss grows, and steal away the ...",
+        "created_at": "2025-11-11T20:05:06.440391"
+      }
+    },
+    {
+      "id": "q025",
+      "question": "What did Kaa ask the monkeys before beginning the Dance of the Hunger?",
+      "ground_truth_answer": "Before beginning the Dance of the Hunger, Kaa asked the monkeys, \"Can ye stir foot or hand without my order? Speak!\" The monkeys responded, \"Without thy order we cannot stir foot or hand, O Kaa!\" This established their helplessness to his control before he initiated the dance.",
+      "source_chunk_id": "ec4df422-f494-489f-8a89-38e044c2baf1",
+      "category": "detail",
+      "difficulty": "easy",
+      "metadata": {
+        "chunk_preview": "\"All thanks, Little Brother,\" said Kaa, though his eyes twinkled. \"And what may so bold a hunter kill? I ask that I may follow when next he goes abroad.\"\n\n\"I kill nothing,--I am too little,--but I dri...",
+        "created_at": "2025-11-11T20:05:08.240664"
+      }
+    }
+  ]
+}

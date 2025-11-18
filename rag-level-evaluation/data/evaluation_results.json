@@ -1,0 +1,2882 @@
+[
+  {
+    "chunk_id": "752db7d8-9a5f-45c6-958b-025b59d39d70",
+    "question": "Who is the author of \"The Jungle Book\"?",
+    "retrieved_chunk_ids": [
+      "752db7d8-9a5f-45c6-958b-025b59d39d70",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "e952eefb-66c8-4af3-9b83-e61656ab15ce",
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444"
+    ],
+    "retrieved_similarities": [
+      0.7422945210582589,
+      0.5058821138213814,
+      0.5054801702499425,
+      0.4994094222960068,
+      0.4980721775164296
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.7422945210582589,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 14
+  },
+  {
+    "chunk_id": "2f106bda-fac4-4dd1-9ec6-5180d26e0304",
+    "question": "What does Tabaqui find to eat in Father Wolf's cave?",
+    "retrieved_chunk_ids": [
+      "2f106bda-fac4-4dd1-9ec6-5180d26e0304",
+      "1c2fe2bd-5bcc-469e-935e-45990b953277",
+      "5281b368-0a70-411b-88a7-43bfb17f2faa",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81",
+      "f396c4c5-1a1f-428c-b61e-7a16032cf324"
+    ],
+    "retrieved_similarities": [
+      0.4953558740231925,
+      0.48578033020731204,
+      0.4590842127799988,
+      0.45159271839706183,
+      0.43963825702667236
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.4953558740231925,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1012
+  },
+  {
+    "chunk_id": "1c2fe2bd-5bcc-469e-935e-45990b953277",
+    "question": "What did Father Wolf think about Shere Khan's request for the man's cub?",
+    "retrieved_chunk_ids": [
+      "5281b368-0a70-411b-88a7-43bfb17f2faa",
+      "1c2fe2bd-5bcc-469e-935e-45990b953277",
+      "f396c4c5-1a1f-428c-b61e-7a16032cf324",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "b974662e-3088-43c9-8798-84dbe964508f"
+    ],
+    "retrieved_similarities": [
+      0.6720600128173828,
+      0.6540574247768658,
+      0.6033087968826294,
+      0.5923072099685669,
+      0.5881525523571649
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.6540574247768658,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1015
+  },
+  {
+    "chunk_id": "5281b368-0a70-411b-88a7-43bfb17f2faa",
+    "question": "What does the Law of the Jungle require a wolf to do when his cubs are old enough?",
+    "retrieved_chunk_ids": [
+      "5281b368-0a70-411b-88a7-43bfb17f2faa",
+      "f396c4c5-1a1f-428c-b61e-7a16032cf324",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "1c2fe2bd-5bcc-469e-935e-45990b953277",
+      "220a3705-5a7d-4987-8875-3d5b95a5fb57"
+    ],
+    "retrieved_similarities": [
+      0.6034313147412776,
+      0.5469548325173368,
+      0.514973359551042,
+      0.4971533565865146,
+      0.4809057546471839
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6034313147412776,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 760
+  },
+  {
+    "chunk_id": "f396c4c5-1a1f-428c-b61e-7a16032cf324",
+    "question": "What did Bagheera propose regarding the life of the man's cub at the Pack Council?",
+    "retrieved_chunk_ids": [
+      "f396c4c5-1a1f-428c-b61e-7a16032cf324",
+      "5281b368-0a70-411b-88a7-43bfb17f2faa",
+      "220a3705-5a7d-4987-8875-3d5b95a5fb57",
+      "b974662e-3088-43c9-8798-84dbe964508f",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06"
+    ],
+    "retrieved_similarities": [
+      0.6188287507789594,
+      0.597124254532115,
+      0.5737787485122722,
+      0.5714521408081096,
+      0.5555383298121898
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6188287507789594,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1018
+  },
+  {
+    "chunk_id": "220a3705-5a7d-4987-8875-3d5b95a5fb57",
+    "question": "What was the price paid for Mowgli to be accepted into the Seeonee Wolf Pack?",
+    "retrieved_chunk_ids": [
+      "220a3705-5a7d-4987-8875-3d5b95a5fb57",
+      "f396c4c5-1a1f-428c-b61e-7a16032cf324",
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81"
+    ],
+    "retrieved_similarities": [
+      0.6417352984267117,
+      0.5682371516086379,
+      0.5593487024307291,
+      0.5590595865810174,
+      0.5558794373094397
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6417352984267117,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 448
+  },
+  {
+    "chunk_id": "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+    "question": "What did Bagheera teach Mowgli about the Law of the Jungle regarding cattle?",
+    "retrieved_chunk_ids": [
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "b9660d70-631d-49b5-9275-59cbd183d2f4",
+      "ce25fca7-cb5f-43ce-ae2e-7313a4009c36",
+      "10763cd2-758a-469b-9d0a-75ef5b9e972a",
+      "5281b368-0a70-411b-88a7-43bfb17f2faa"
+    ],
+    "retrieved_similarities": [
+      0.6349187332488662,
+      0.6115624771639775,
+      0.5957962642201747,
+      0.5877934589632244,
+      0.5791980529787518
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6349187332488662,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 991
+  },
+  {
+    "chunk_id": "7a846e8e-61a2-4fbb-99e5-3a5221a23be9",
+    "question": "What does Bagheera tell Mowgli about the reason the other wolves might want to kill him?",
+    "retrieved_chunk_ids": [
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "7a846e8e-61a2-4fbb-99e5-3a5221a23be9",
+      "220a3705-5a7d-4987-8875-3d5b95a5fb57",
+      "5281b368-0a70-411b-88a7-43bfb17f2faa",
+      "dd5a32ca-b828-4167-9fed-afc215b31716"
+    ],
+    "retrieved_similarities": [
+      0.6670469840480981,
+      0.6208739691712294,
+      0.5959791959530378,
+      0.5932848034287933,
+      0.5870200078219211
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.6208739691712294,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 909
+  },
+  {
+    "chunk_id": "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+    "question": "What did Bagheera mean by the \"Red Flower\"?",
+    "retrieved_chunk_ids": [
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+      "b974662e-3088-43c9-8798-84dbe964508f",
+      "7a846e8e-61a2-4fbb-99e5-3a5221a23be9",
+      "a67d1f1b-9fb4-4215-b548-4ad34fa10536",
+      "dd5a32ca-b828-4167-9fed-afc215b31716"
+    ],
+    "retrieved_similarities": [
+      0.4808559727158639,
+      0.44197940826416326,
+      0.4253549575805694,
+      0.41604921722119415,
+      0.40877874054528673
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.4808559727158639,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1016
+  },
+  {
+    "chunk_id": "d9900e94-1cbe-4869-b696-6e24c89cd109",
+    "question": "What did Mowgli do with the fire pot while sitting in the cave?",
+    "retrieved_chunk_ids": [
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+      "e952eefb-66c8-4af3-9b83-e61656ab15ce",
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81"
+    ],
+    "retrieved_similarities": [
+      0.5578267505375484,
+      0.5029690415551975,
+      0.49419441784587104,
+      0.4870852530002594,
+      0.48671535870456295
+    ],
+    "metrics": {
+      "hit_rate_at_k": 0,
+      "first_position_accuracy": 0,
+      "rank": null,
+      "similarity_score": null,
+      "found": false,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "precision_at_10": 0.0,
+      "recall_at_10": 0.0,
+      "top_k_recall": 0,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 932
+  },
+  {
+    "chunk_id": "b974662e-3088-43c9-8798-84dbe964508f",
+    "question": "What does Mowgli promise to the Pack before he leaves them?",
+    "retrieved_chunk_ids": [
+      "81d1f337-0dc4-4ac5-beca-5108d20890e2",
+      "b974662e-3088-43c9-8798-84dbe964508f",
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27"
+    ],
+    "retrieved_similarities": [
+      0.656357726075786,
+      0.6410255860059755,
+      0.6390693237061529,
+      0.6386074639196727,
+      0.630498051643376
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.6410255860059755,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 950
+  },
+  {
+    "chunk_id": "81d1f337-0dc4-4ac5-beca-5108d20890e2",
+    "question": "What did Mowgli promise to do when he returned to the jungle?",
+    "retrieved_chunk_ids": [
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+      "81d1f337-0dc4-4ac5-beca-5108d20890e2",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81"
+    ],
+    "retrieved_similarities": [
+      0.6131505370140119,
+      0.6030348653134955,
+      0.5896391517138997,
+      0.583416904007382,
+      0.5729748864434696
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 3,
+      "similarity_score": 0.5896391517138997,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 566
+  },
+  {
+    "chunk_id": "648ab646-0060-44ae-9642-a5c06ab176c1",
+    "question": "What did the Sambhur do as dawn was breaking in the Hunting-Song of the Seeonee Pack?",
+    "retrieved_chunk_ids": [
+      "648ab646-0060-44ae-9642-a5c06ab176c1",
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+      "4d453b48-0230-46d8-992c-4027535069b1",
+      "2b8a3316-e217-4c66-9e23-eafb0c3f8e8d",
+      "b9660d70-631d-49b5-9275-59cbd183d2f4"
+    ],
+    "retrieved_similarities": [
+      0.7164474085169447,
+      0.4282360502551811,
+      0.42437071872862353,
+      0.4175166860982795,
+      0.41032312543163096
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.7164474085169447,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 172
+  },
+  {
+    "chunk_id": "10763cd2-758a-469b-9d0a-75ef5b9e972a",
+    "question": "What did Baloo say to Bagheera when Mowgli had been cuffed and ran off in a temper?",
+    "retrieved_chunk_ids": [
+      "ce25fca7-cb5f-43ce-ae2e-7313a4009c36",
+      "a7e3241a-1bef-480d-9cf5-2c7220d6079b",
+      "220a3705-5a7d-4987-8875-3d5b95a5fb57",
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "10763cd2-758a-469b-9d0a-75ef5b9e972a"
+    ],
+    "retrieved_similarities": [
+      0.6434577511710738,
+      0.6059163700192637,
+      0.604861635114606,
+      0.6039385143463499,
+      0.6034651342152203
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 5,
+      "similarity_score": 0.6034651342152203,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1012
+  },
+  {
+    "chunk_id": "a7e3241a-1bef-480d-9cf5-2c7220d6079b",
+    "question": "What did the Monkey People offer Mowgli when they found him?",
+    "retrieved_chunk_ids": [
+      "17955493-17d2-4384-b3fc-ffe765949299",
+      "dfd2168c-ea5b-4105-85b1-09c02a783020",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81",
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "23185e9a-b8ee-48c5-b2e0-de52fc5667e0"
+    ],
+    "retrieved_similarities": [
+      0.6470395133781603,
+      0.623116355445496,
+      0.6211038561320313,
+      0.6209678875823099,
+      0.6119181927466956
+    ],
+    "metrics": {
+      "hit_rate_at_k": 0,
+      "first_position_accuracy": 0,
+      "rank": null,
+      "similarity_score": null,
+      "found": false,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "precision_at_10": 0.0,
+      "recall_at_10": 0.0,
+      "top_k_recall": 0,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 957
+  },
+  {
+    "chunk_id": "23185e9a-b8ee-48c5-b2e0-de52fc5667e0",
+    "question": "What did Baloo say about the Monkey-Folk and their way of life?",
+    "retrieved_chunk_ids": [
+      "23185e9a-b8ee-48c5-b2e0-de52fc5667e0",
+      "a7e3241a-1bef-480d-9cf5-2c7220d6079b",
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "dfd2168c-ea5b-4105-85b1-09c02a783020",
+      "6565dcc7-e3d8-4540-844a-9ad623cd3a61"
+    ],
+    "retrieved_similarities": [
+      0.6438689211489789,
+      0.6093636467104626,
+      0.6078113679773441,
+      0.5969346103311729,
+      0.5804717194752953
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6438689211489789,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1001
+  },
+  {
+    "chunk_id": "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+    "question": "What did Mowgli shout to Rann the Kite while being swung through the air by the monkeys?",
+    "retrieved_chunk_ids": [
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "17955493-17d2-4384-b3fc-ffe765949299",
+      "b24e4257-2402-4644-a318-b680acf364cf",
+      "a7e3241a-1bef-480d-9cf5-2c7220d6079b",
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444"
+    ],
+    "retrieved_similarities": [
+      0.65289306640625,
+      0.6443909002658996,
+      0.6238791570735491,
+      0.6156430794873631,
+      0.6097603309440262
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.65289306640625,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1003
+  },
+  {
+    "chunk_id": "7b029954-e578-41d2-ba63-a08e299866cb",
+    "question": "What did Baloo wish he had done instead of breaking Mowgli's head?",
+    "retrieved_chunk_ids": [
+      "ce25fca7-cb5f-43ce-ae2e-7313a4009c36",
+      "10763cd2-758a-469b-9d0a-75ef5b9e972a",
+      "220a3705-5a7d-4987-8875-3d5b95a5fb57",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "17955493-17d2-4384-b3fc-ffe765949299"
+    ],
+    "retrieved_similarities": [
+      0.5782618429348697,
+      0.5590201616287231,
+      0.5574779178215324,
+      0.5548934936523438,
+      0.5457230372942402
+    ],
+    "metrics": {
+      "hit_rate_at_k": 0,
+      "first_position_accuracy": 0,
+      "rank": null,
+      "similarity_score": null,
+      "found": false,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "precision_at_10": 0.0,
+      "recall_at_10": 0.0,
+      "top_k_recall": 0,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 968
+  },
+  {
+    "chunk_id": "6565dcc7-e3d8-4540-844a-9ad623cd3a61",
+    "question": "What did Kaa say about the Bandar-log's behavior towards the man-cub?",
+    "retrieved_chunk_ids": [
+      "6565dcc7-e3d8-4540-844a-9ad623cd3a61",
+      "7b029954-e578-41d2-ba63-a08e299866cb",
+      "b24e4257-2402-4644-a318-b680acf364cf",
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "a67d1f1b-9fb4-4215-b548-4ad34fa10536"
+    ],
+    "retrieved_similarities": [
+      0.6177327264706755,
+      0.5914394015931737,
+      0.5731167793273967,
+      0.5684406500125329,
+      0.5636855027863173
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6177327264706755,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 998
+  },
+  {
+    "chunk_id": "d0b16fc2-dcad-451b-af11-4d5376791cd4",
+    "question": "What did Rann the Kite tell Baloo about Mowgli's whereabouts?",
+    "retrieved_chunk_ids": [
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "d0b16fc2-dcad-451b-af11-4d5376791cd4",
+      "ec4df422-f494-489f-8a89-38e044c2baf1",
+      "7b029954-e578-41d2-ba63-a08e299866cb",
+      "17955493-17d2-4384-b3fc-ffe765949299"
+    ],
+    "retrieved_similarities": [
+      0.5617562458805785,
+      0.5534982947410257,
+      0.5382094292141368,
+      0.5279998149872084,
+      0.5268080359571007
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.5534982947410257,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1001
+  },
+  {
+    "chunk_id": "dfd2168c-ea5b-4105-85b1-09c02a783020",
+    "question": "What did Mowgli wish for when he felt sore and angry after being captured by the monkeys?",
+    "retrieved_chunk_ids": [
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "dfd2168c-ea5b-4105-85b1-09c02a783020",
+      "17955493-17d2-4384-b3fc-ffe765949299",
+      "a7e3241a-1bef-480d-9cf5-2c7220d6079b",
+      "dd5a32ca-b828-4167-9fed-afc215b31716"
+    ],
+    "retrieved_similarities": [
+      0.6066264275685814,
+      0.6007756769888307,
+      0.5985244094885712,
+      0.5784000675439918,
+      0.5774709674681427
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.6007756769888307,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 922
+  },
+  {
+    "chunk_id": "17955493-17d2-4384-b3fc-ffe765949299",
+    "question": "What did the monkeys do when they saw Bagheera on the terrace?",
+    "retrieved_chunk_ids": [
+      "17955493-17d2-4384-b3fc-ffe765949299",
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "23185e9a-b8ee-48c5-b2e0-de52fc5667e0",
+      "b24e4257-2402-4644-a318-b680acf364cf",
+      "dfd2168c-ea5b-4105-85b1-09c02a783020"
+    ],
+    "retrieved_similarities": [
+      0.5616448615510948,
+      0.5533191498137573,
+      0.5098273894345171,
+      0.5027414853439068,
+      0.49752171359762687
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5616448615510948,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1001
+  },
+  {
+    "chunk_id": "a67d1f1b-9fb4-4215-b548-4ad34fa10536",
+    "question": "What did Bagheera do when he realized he needed protection during the fight with the monkeys?",
+    "retrieved_chunk_ids": [
+      "17955493-17d2-4384-b3fc-ffe765949299",
+      "a67d1f1b-9fb4-4215-b548-4ad34fa10536",
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "b24e4257-2402-4644-a318-b680acf364cf",
+      "dd5a32ca-b828-4167-9fed-afc215b31716"
+    ],
+    "retrieved_similarities": [
+      0.5806999552667115,
+      0.5654443592926005,
+      0.5486737653217845,
+      0.518653019706817,
+      0.5173775728609542
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.5654443592926005,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 967
+  },
+  {
+    "chunk_id": "b24e4257-2402-4644-a318-b680acf364cf",
+    "question": "What did Mowgli promise Kaa after being saved from the trap?",
+    "retrieved_chunk_ids": [
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+      "b24e4257-2402-4644-a318-b680acf364cf",
+      "b974662e-3088-43c9-8798-84dbe964508f",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27"
+    ],
+    "retrieved_similarities": [
+      0.608021723267831,
+      0.6019441126618329,
+      0.6005515098243063,
+      0.5971088409423828,
+      0.5925933475848058
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.6019441126618329,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1000
+  },
+  {
+    "chunk_id": "ec4df422-f494-489f-8a89-38e044c2baf1",
+    "question": "What did Kaa ask the monkeys before beginning the Dance of the Hunger?",
+    "retrieved_chunk_ids": [
+      "ec4df422-f494-489f-8a89-38e044c2baf1",
+      "b24e4257-2402-4644-a318-b680acf364cf",
+      "7b029954-e578-41d2-ba63-a08e299866cb",
+      "a67d1f1b-9fb4-4215-b548-4ad34fa10536",
+      "6565dcc7-e3d8-4540-844a-9ad623cd3a61"
+    ],
+    "retrieved_similarities": [
+      0.5720031771656104,
+      0.5708878892130927,
+      0.557858943939209,
+      0.5521057782047099,
+      0.5252445310062767
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5720031771656104,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 930
+  },
+  {
+    "chunk_id": "ce25fca7-cb5f-43ce-ae2e-7313a4009c36",
+    "question": "What did Mowgli do that caused trouble for Baloo and Bagheera?",
+    "retrieved_chunk_ids": [
+      "1ca1145a-c0c9-44b9-b89c-0aaa8bcca052",
+      "ce25fca7-cb5f-43ce-ae2e-7313a4009c36",
+      "23185e9a-b8ee-48c5-b2e0-de52fc5667e0",
+      "17955493-17d2-4384-b3fc-ffe765949299",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06"
+    ],
+    "retrieved_similarities": [
+      0.6449108123779297,
+      0.623131141289341,
+      0.6225087828191754,
+      0.6185190861975877,
+      0.6165103912353516
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.623131141289341,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 377
+  },
+  {
+    "chunk_id": "beeaf5c0-62cf-4076-9dc9-477a81d91fa4",
+    "question": "What do the Bandar-Log wish they could do in a minute or two?",
+    "retrieved_chunk_ids": [
+      "beeaf5c0-62cf-4076-9dc9-477a81d91fa4",
+      "de71aa44-c7b0-49bc-81eb-e63c5ae8a155"
+    ],
+    "retrieved_similarities": [
+      0.4096859151312171,
+      0.30110704289591017
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.4096859151312171,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 288
+  },
+  {
+    "chunk_id": "3dc85c84-2f03-40e5-95a0-714bd70d0e81",
+    "question": "What did Mowgli think about the way the villagers behaved when they saw him?",
+    "retrieved_chunk_ids": [
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "e952eefb-66c8-4af3-9b83-e61656ab15ce",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81",
+      "23185e9a-b8ee-48c5-b2e0-de52fc5667e0"
+    ],
+    "retrieved_similarities": [
+      0.627357513274558,
+      0.6235570420294859,
+      0.6105195779537498,
+      0.6082960935786136,
+      0.5843188789556136
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 4,
+      "similarity_score": 0.6082960935786136,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 970
+  },
+  {
+    "chunk_id": "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+    "question": "What did Messua remember that made her think Mowgli might be her son Nathoo?",
+    "retrieved_chunk_ids": [
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81",
+      "81d1f337-0dc4-4ac5-beca-5108d20890e2",
+      "e952eefb-66c8-4af3-9b83-e61656ab15ce",
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444"
+    ],
+    "retrieved_similarities": [
+      0.5906867980957073,
+      0.5338702997372193,
+      0.5188420105670694,
+      0.5180759275533003,
+      0.5010816750976437
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5906867980957073,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 974
+  },
+  {
+    "chunk_id": "e952eefb-66c8-4af3-9b83-e61656ab15ce",
+    "question": "What did Mowgli think about Buldeo's stories of the tiger and the ghost of the money-lender?",
+    "retrieved_chunk_ids": [
+      "e952eefb-66c8-4af3-9b83-e61656ab15ce",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "dd5a32ca-b828-4167-9fed-afc215b31716",
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81"
+    ],
+    "retrieved_similarities": [
+      0.6980969337907675,
+      0.6251110807127416,
+      0.6101046699472682,
+      0.6047499304711735,
+      0.6024336046547493
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6980969337907675,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 876
+  },
+  {
+    "chunk_id": "b9660d70-631d-49b5-9275-59cbd183d2f4",
+    "question": "What did Mowgli tell Kamya to do while he went on with the buffaloes?",
+    "retrieved_chunk_ids": [
+      "b9660d70-631d-49b5-9275-59cbd183d2f4",
+      "3c91a649-b0d9-4001-9782-0f4efaf8ddfe",
+      "dd5a32ca-b828-4167-9fed-afc215b31716",
+      "36f18ef8-80a0-4c01-8559-cd89b9110c0e",
+      "e118b491-c3e0-4b70-9d17-89d608de56d2"
+    ],
+    "retrieved_similarities": [
+      0.6581659701713948,
+      0.6380243871829995,
+      0.6242936139894287,
+      0.611716242390318,
+      0.6019786660030706
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6581659701713948,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 971
+  },
+  {
+    "chunk_id": "3c91a649-b0d9-4001-9782-0f4efaf8ddfe",
+    "question": "What did Mowgli ask Gray Brother to do with the herd before they confronted Shere Khan?",
+    "retrieved_chunk_ids": [
+      "3c91a649-b0d9-4001-9782-0f4efaf8ddfe",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "b974662e-3088-43c9-8798-84dbe964508f",
+      "e118b491-c3e0-4b70-9d17-89d608de56d2",
+      "b9660d70-631d-49b5-9275-59cbd183d2f4"
+    ],
+    "retrieved_similarities": [
+      0.6477917239728083,
+      0.6260795779847976,
+      0.6103343185682822,
+      0.6015488447143598,
+      0.5972777187012949
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6477917239728083,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1008
+  },
+  {
+    "chunk_id": "e118b491-c3e0-4b70-9d17-89d608de56d2",
+    "question": "What was Mowgli's plan for dealing with Shere Khan using the bulls?",
+    "retrieved_chunk_ids": [
+      "3c91a649-b0d9-4001-9782-0f4efaf8ddfe",
+      "e118b491-c3e0-4b70-9d17-89d608de56d2",
+      "dd5a32ca-b828-4167-9fed-afc215b31716",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "b974662e-3088-43c9-8798-84dbe964508f"
+    ],
+    "retrieved_similarities": [
+      0.6301281264386165,
+      0.6170989826708125,
+      0.595822065446091,
+      0.5931019363731725,
+      0.5641847084705641
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.6170989826708125,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 696
+  },
+  {
+    "chunk_id": "dd5a32ca-b828-4167-9fed-afc215b31716",
+    "question": "What did Buldeo plan to do with Shere Khan's skin after Mowgli skinned the tiger?",
+    "retrieved_chunk_ids": [
+      "dd5a32ca-b828-4167-9fed-afc215b31716",
+      "b974662e-3088-43c9-8798-84dbe964508f",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "e118b491-c3e0-4b70-9d17-89d608de56d2",
+      "3c91a649-b0d9-4001-9782-0f4efaf8ddfe"
+    ],
+    "retrieved_similarities": [
+      0.6301320350327578,
+      0.5084047014472075,
+      0.5075211524963379,
+      0.5034177603374586,
+      0.49474355609753484
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6301320350327578,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1014
+  },
+  {
+    "chunk_id": "36f18ef8-80a0-4c01-8559-cd89b9110c0e",
+    "question": "What did Buldeo tell the villagers about Mowgli that made them react with fear?",
+    "retrieved_chunk_ids": [
+      "e952eefb-66c8-4af3-9b83-e61656ab15ce",
+      "36f18ef8-80a0-4c01-8559-cd89b9110c0e",
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "3dc85c84-2f03-40e5-95a0-714bd70d0e81",
+      "dd5a32ca-b828-4167-9fed-afc215b31716"
+    ],
+    "retrieved_similarities": [
+      0.6828593030148125,
+      0.628628529824528,
+      0.62487347422522,
+      0.6199723952934679,
+      0.6160655527232096
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.628628529824528,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 980
+  },
+  {
+    "chunk_id": "431ac16d-8a1b-4f6e-8560-1f298fa630b4",
+    "question": "What did Mowgli bring to the Council Rock to keep his word?",
+    "retrieved_chunk_ids": [
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+      "220a3705-5a7d-4987-8875-3d5b95a5fb57",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06",
+      "d1a95788-f224-4d7e-8a3b-64d4b6a9ff27",
+      "b974662e-3088-43c9-8798-84dbe964508f"
+    ],
+    "retrieved_similarities": [
+      0.621150355900827,
+      0.6157726232937829,
+      0.6134112429688516,
+      0.6117336469491793,
+      0.6096360269080476
+    ],
+    "metrics": {
+      "hit_rate_at_k": 0,
+      "first_position_accuracy": 0,
+      "rank": null,
+      "similarity_score": null,
+      "found": false,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "precision_at_10": 0.0,
+      "recall_at_10": 0.0,
+      "top_k_recall": 0,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 900
+  },
+  {
+    "chunk_id": "bd244808-a3f7-4d3c-a53f-37b5a9ab20e7",
+    "question": "What does Mowgli sing about at the Council Rock?",
+    "retrieved_chunk_ids": [
+      "bd244808-a3f7-4d3c-a53f-37b5a9ab20e7",
+      "81d1f337-0dc4-4ac5-beca-5108d20890e2",
+      "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+      "e952eefb-66c8-4af3-9b83-e61656ab15ce",
+      "e6a21f74-1c6b-4a8d-877b-eddc14bd5a06"
+    ],
+    "retrieved_similarities": [
+      0.679069478567275,
+      0.6328618149243714,
+      0.6184034433835559,
+      0.607943278314376,
+      0.6073755855932493
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.679069478567275,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 753
+  },
+  {
+    "chunk_id": "83579035-ac57-4055-883d-6c9326b63ace",
+    "question": "What did Sea Catch do after he finished his forty-fifth fight in the spring?",
+    "retrieved_chunk_ids": [
+      "83579035-ac57-4055-883d-6c9326b63ace",
+      "dd9122d3-ce4c-4bf8-a924-3004f76c4cca",
+      "9b43b332-7ec1-4dcc-ada7-4f0203842b60",
+      "2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e",
+      "71029a69-b4f1-4f7d-8102-1e835d40ced9"
+    ],
+    "retrieved_similarities": [
+      0.40347130257233643,
+      0.3757724164074858,
+      0.3715916275978194,
+      0.35926877988539163,
+      0.3512360719616291
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.40347130257233643,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 997
+  },
+  {
+    "chunk_id": "d0627920-a254-47db-9db8-f68e40b2ecc4",
+    "question": "What did Matkah sing to her baby seal, Kotick?",
+    "retrieved_chunk_ids": [
+      "d0627920-a254-47db-9db8-f68e40b2ecc4",
+      "2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e",
+      "dd9122d3-ce4c-4bf8-a924-3004f76c4cca",
+      "9b43b332-7ec1-4dcc-ada7-4f0203842b60",
+      "4cfd58e9-d4d8-485e-b902-e9270c734fed"
+    ],
+    "retrieved_similarities": [
+      0.6452168226242065,
+      0.5698866504498342,
+      0.5654464882080014,
+      0.5378772661539671,
+      0.533024009105685
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6452168226242065,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 975
+  },
+  {
+    "chunk_id": "71029a69-b4f1-4f7d-8102-1e835d40ced9",
+    "question": "What did Matkah teach Kotick about the meaning of a tingling tail while swimming?",
+    "retrieved_chunk_ids": [
+      "71029a69-b4f1-4f7d-8102-1e835d40ced9",
+      "d0627920-a254-47db-9db8-f68e40b2ecc4",
+      "57106ae4-bafc-411d-b5ec-de61f3e2bfe1",
+      "da620921-dcdd-44a7-b3d3-fb0c3f27aca6",
+      "4cfd58e9-d4d8-485e-b902-e9270c734fed"
+    ],
+    "retrieved_similarities": [
+      0.5345873791471267,
+      0.42050126668803367,
+      0.413740729466634,
+      0.40730925071670177,
+      0.3989729763913801
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5345873791471267,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 986
+  },
+  {
+    "chunk_id": "da620921-dcdd-44a7-b3d3-fb0c3f27aca6",
+    "question": "What did Kotick feel as he remembered the beaches of Novastoshnah while lying in the water off the Island of Juan Fernandez?",
+    "retrieved_chunk_ids": [
+      "dd9122d3-ce4c-4bf8-a924-3004f76c4cca",
+      "da620921-dcdd-44a7-b3d3-fb0c3f27aca6",
+      "63f35065-030a-4100-b0e4-ef04fca4197f",
+      "9b43b332-7ec1-4dcc-ada7-4f0203842b60",
+      "4cfd58e9-d4d8-485e-b902-e9270c734fed"
+    ],
+    "retrieved_similarities": [
+      0.5159381474275061,
+      0.46402891087446885,
+      0.45314062712853975,
+      0.44928834274466056,
+      0.4482003912866097
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.46402891087446885,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 996
+  },
+  {
+    "chunk_id": "4cfd58e9-d4d8-485e-b902-e9270c734fed",
+    "question": "What did the Sea Lion suggest Kotick do after he expressed his feelings about the killing of the seals?",
+    "retrieved_chunk_ids": [
+      "4cfd58e9-d4d8-485e-b902-e9270c734fed",
+      "63f35065-030a-4100-b0e4-ef04fca4197f",
+      "2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e",
+      "9b43b332-7ec1-4dcc-ada7-4f0203842b60",
+      "da620921-dcdd-44a7-b3d3-fb0c3f27aca6"
+    ],
+    "retrieved_similarities": [
+      0.5446035699664601,
+      0.5223950614686386,
+      0.5174340759943208,
+      0.4951029856717857,
+      0.4905912431898449
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5446035699664601,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 977
+  },
+  {
+    "chunk_id": "63f35065-030a-4100-b0e4-ef04fca4197f",
+    "question": "What did Kotick hope to find in his search across the sea?",
+    "retrieved_chunk_ids": [
+      "dd9122d3-ce4c-4bf8-a924-3004f76c4cca",
+      "63f35065-030a-4100-b0e4-ef04fca4197f",
+      "57106ae4-bafc-411d-b5ec-de61f3e2bfe1",
+      "9b43b332-7ec1-4dcc-ada7-4f0203842b60",
+      "da620921-dcdd-44a7-b3d3-fb0c3f27aca6"
+    ],
+    "retrieved_similarities": [
+      0.4909749057963779,
+      0.48025900478500816,
+      0.4555946667919232,
+      0.4516397147393597,
+      0.45160685431753045
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.48025900478500816,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 990
+  },
+  {
+    "chunk_id": "dd9122d3-ce4c-4bf8-a924-3004f76c4cca",
+    "question": "What did the old seal tell Kotick about the Lost Rookery of Masafuera?",
+    "retrieved_chunk_ids": [
+      "dd9122d3-ce4c-4bf8-a924-3004f76c4cca",
+      "4cfd58e9-d4d8-485e-b902-e9270c734fed",
+      "da620921-dcdd-44a7-b3d3-fb0c3f27aca6",
+      "63f35065-030a-4100-b0e4-ef04fca4197f",
+      "9b43b332-7ec1-4dcc-ada7-4f0203842b60"
+    ],
+    "retrieved_similarities": [
+      0.5492064508180476,
+      0.49419942671077743,
+      0.4913305666057576,
+      0.4799763894123412,
+      0.47816923390812405
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5492064508180476,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 929
+  },
+  {
+    "chunk_id": "57106ae4-bafc-411d-b5ec-de61f3e2bfe1",
+    "question": "What unique feature prevents Sea Cow from being able to talk?",
+    "retrieved_chunk_ids": [
+      "57106ae4-bafc-411d-b5ec-de61f3e2bfe1",
+      "63f35065-030a-4100-b0e4-ef04fca4197f",
+      "2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e",
+      "4cfd58e9-d4d8-485e-b902-e9270c734fed",
+      "d0627920-a254-47db-9db8-f68e40b2ecc4"
+    ],
+    "retrieved_similarities": [
+      0.42501601129865785,
+      0.399194562387143,
+      0.3561698198318507,
+      0.3525367169060336,
+      0.33296163874635987
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.42501601129865785,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 955
+  },
+  {
+    "chunk_id": "9b43b332-7ec1-4dcc-ada7-4f0203842b60",
+    "question": "What did Kotick discover that made him believe he found a safe place for the seals?",
+    "retrieved_chunk_ids": [
+      "9b43b332-7ec1-4dcc-ada7-4f0203842b60",
+      "63f35065-030a-4100-b0e4-ef04fca4197f",
+      "da620921-dcdd-44a7-b3d3-fb0c3f27aca6",
+      "2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e",
+      "4cfd58e9-d4d8-485e-b902-e9270c734fed"
+    ],
+    "retrieved_similarities": [
+      0.5248074873937654,
+      0.5114407844210148,
+      0.5090620214306185,
+      0.5081516504287756,
+      0.499930143360495
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5248074873937654,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 886
+  },
+  {
+    "chunk_id": "2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e",
+    "question": "What did Kotick do after he taught the other seals their lesson following the fight?",
+    "retrieved_chunk_ids": [
+      "2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e",
+      "da620921-dcdd-44a7-b3d3-fb0c3f27aca6",
+      "9b43b332-7ec1-4dcc-ada7-4f0203842b60",
+      "71029a69-b4f1-4f7d-8102-1e835d40ced9",
+      "4cfd58e9-d4d8-485e-b902-e9270c734fed"
+    ],
+    "retrieved_similarities": [
+      0.5508064895387605,
+      0.5075426688739492,
+      0.5024889114485909,
+      0.49057862218745907,
+      0.48684474982682224
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5508064895387605,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 813
+  },
+  {
+    "chunk_id": "76a7c36d-57bc-4678-8001-85851c89fa53",
+    "question": "What is the significance of the song \"Lukannon\" to the St. Paul seals?",
+    "retrieved_chunk_ids": [
+      "76a7c36d-57bc-4678-8001-85851c89fa53",
+      "83579035-ac57-4055-883d-6c9326b63ace",
+      "dd9122d3-ce4c-4bf8-a924-3004f76c4cca",
+      "da620921-dcdd-44a7-b3d3-fb0c3f27aca6",
+      "2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e"
+    ],
+    "retrieved_similarities": [
+      0.6443935208789777,
+      0.4036999826073655,
+      0.3645221590995893,
+      0.3544456362724404,
+      0.35424520696671613
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6443935208789777,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 388
+  },
+  {
+    "chunk_id": "771dcac8-450d-488a-9889-8f60d14959a4",
+    "question": "What did the big man do when he found Rikki-tikki-Tavi?",
+    "retrieved_chunk_ids": [
+      "771dcac8-450d-488a-9889-8f60d14959a4",
+      "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+      "f6791ca1-0a68-442f-87a4-99d024ed9972",
+      "f0759aae-9d28-401a-8d02-48d82aa0e529",
+      "cb3353b1-5ed2-4dad-9a95-aeecd203528a"
+    ],
+    "retrieved_similarities": [
+      0.6405502986251997,
+      0.6392606545816693,
+      0.6224004030227838,
+      0.6068186866965268,
+      0.6024224154882396
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6405502986251997,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 862
+  },
+  {
+    "chunk_id": "f6791ca1-0a68-442f-87a4-99d024ed9972",
+    "question": "What does Rikki-tikki do when he first encounters Nag in the garden?",
+    "retrieved_chunk_ids": [
+      "f0759aae-9d28-401a-8d02-48d82aa0e529",
+      "f6791ca1-0a68-442f-87a4-99d024ed9972",
+      "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+      "cb3353b1-5ed2-4dad-9a95-aeecd203528a",
+      "ead5c907-d7bd-48a6-b1ff-45b96dea9a02"
+    ],
+    "retrieved_similarities": [
+      0.6246934942992505,
+      0.620424124661705,
+      0.6019798337823226,
+      0.6002230941916993,
+      0.5999781250940636
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.620424124661705,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 968
+  },
+  {
+    "chunk_id": "af227ae7-9ea9-4376-8a75-f89a9ddb1ff0",
+    "question": "What did Rikki-tikki do when he heard the tiny voice saying, \"Be careful. I am Death!\"?",
+    "retrieved_chunk_ids": [
+      "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+      "af227ae7-9ea9-4376-8a75-f89a9ddb1ff0",
+      "917182e3-4d8e-463c-8d17-76269a43ac3b",
+      "f0759aae-9d28-401a-8d02-48d82aa0e529",
+      "cb3353b1-5ed2-4dad-9a95-aeecd203528a"
+    ],
+    "retrieved_similarities": [
+      0.5824530969588113,
+      0.5802111625671387,
+      0.575371077612514,
+      0.568921889727004,
+      0.5634714549533001
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.5802111625671387,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 930
+  },
+  {
+    "chunk_id": "f0759aae-9d28-401a-8d02-48d82aa0e529",
+    "question": "What did Nagaina say to Nag about the big man who killed Karait?",
+    "retrieved_chunk_ids": [
+      "7771d142-59b6-40da-a75a-5bd4157df5dc",
+      "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+      "f0759aae-9d28-401a-8d02-48d82aa0e529",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "ead5c907-d7bd-48a6-b1ff-45b96dea9a02"
+    ],
+    "retrieved_similarities": [
+      0.4658695577862466,
+      0.46206083893776273,
+      0.4521666467189821,
+      0.4428766467758998,
+      0.441264281385924
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 3,
+      "similarity_score": 0.4521666467189821,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1024
+  },
+  {
+    "chunk_id": "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+    "question": "What happened to Nag after Rikki-tikki attacked him?",
+    "retrieved_chunk_ids": [
+      "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+      "f0759aae-9d28-401a-8d02-48d82aa0e529",
+      "ead5c907-d7bd-48a6-b1ff-45b96dea9a02",
+      "f6791ca1-0a68-442f-87a4-99d024ed9972",
+      "cb3353b1-5ed2-4dad-9a95-aeecd203528a"
+    ],
+    "retrieved_similarities": [
+      0.6685105761441834,
+      0.6274407692981065,
+      0.6151330012241615,
+      0.606620199869317,
+      0.5960546795081103
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6685105761441834,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 962
+  },
+  {
+    "chunk_id": "fbd90700-76d9-497c-82c4-06704751c745",
+    "question": "How many eggs did Rikki-tikki find in the melon patch?",
+    "retrieved_chunk_ids": [
+      "ead5c907-d7bd-48a6-b1ff-45b96dea9a02",
+      "fbd90700-76d9-497c-82c4-06704751c745",
+      "cb3353b1-5ed2-4dad-9a95-aeecd203528a",
+      "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+      "771dcac8-450d-488a-9889-8f60d14959a4"
+    ],
+    "retrieved_similarities": [
+      0.5009123385496341,
+      0.5008032323845067,
+      0.4765170698587595,
+      0.45460139350291096,
+      0.4533549086259281
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.5008032323845067,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1013
+  },
+  {
+    "chunk_id": "ead5c907-d7bd-48a6-b1ff-45b96dea9a02",
+    "question": "What did Nagaina say she would do if Rikki-tikki gave her the last egg?",
+    "retrieved_chunk_ids": [
+      "ead5c907-d7bd-48a6-b1ff-45b96dea9a02",
+      "fbd90700-76d9-497c-82c4-06704751c745",
+      "f0759aae-9d28-401a-8d02-48d82aa0e529",
+      "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+      "cb3353b1-5ed2-4dad-9a95-aeecd203528a"
+    ],
+    "retrieved_similarities": [
+      0.6360641149225202,
+      0.5962544020642127,
+      0.5291752465053962,
+      0.5272994290650921,
+      0.5125170610794252
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6360641149225202,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 982
+  },
+  {
+    "chunk_id": "cb3353b1-5ed2-4dad-9a95-aeecd203528a",
+    "question": "What did Rikki-tikki plan to tell the Coppersmith after he defeated Nagaina?",
+    "retrieved_chunk_ids": [
+      "cb3353b1-5ed2-4dad-9a95-aeecd203528a",
+      "4bc5e41f-6284-4c71-9c82-1b97d3f67b3a",
+      "f0759aae-9d28-401a-8d02-48d82aa0e529",
+      "ead5c907-d7bd-48a6-b1ff-45b96dea9a02",
+      "f6791ca1-0a68-442f-87a4-99d024ed9972"
+    ],
+    "retrieved_similarities": [
+      0.6125817578164238,
+      0.6026104509052524,
+      0.5998873531851985,
+      0.597346997102916,
+      0.5473200898349441
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6125817578164238,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 958
+  },
+  {
+    "chunk_id": "917182e3-4d8e-463c-8d17-76269a43ac3b",
+    "question": "What are the notable characteristics of Rikki-tikki-tavi mentioned in Darzee's chant?",
+    "retrieved_chunk_ids": [
+      "917182e3-4d8e-463c-8d17-76269a43ac3b",
+      "771dcac8-450d-488a-9889-8f60d14959a4",
+      "cb3353b1-5ed2-4dad-9a95-aeecd203528a",
+      "f0759aae-9d28-401a-8d02-48d82aa0e529",
+      "f6791ca1-0a68-442f-87a4-99d024ed9972"
+    ],
+    "retrieved_similarities": [
+      0.714214341985336,
+      0.6285408513868374,
+      0.6098087299098272,
+      0.6067753434181257,
+      0.6045643576200659
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.714214341985336,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 229
+  },
+  {
+    "chunk_id": "ecdd0d47-002a-4cba-83a4-5b55ae11b26b",
+    "question": "What was Kala Nag's age when he was caught and how long had he served the Indian Government by the time of the narrative?",
+    "retrieved_chunk_ids": [
+      "ecdd0d47-002a-4cba-83a4-5b55ae11b26b",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "7771d142-59b6-40da-a75a-5bd4157df5dc",
+      "4d453b48-0230-46d8-992c-4027535069b1",
+      "bafe95bc-3ce9-4304-a63b-31719d59d37e"
+    ],
+    "retrieved_similarities": [
+      0.5217397809028625,
+      0.44729228160656365,
+      0.44222844964946684,
+      0.4144951105117798,
+      0.38219496607780457
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5217397809028625,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 897
+  },
+  {
+    "chunk_id": "7771d142-59b6-40da-a75a-5bd4157df5dc",
+    "question": "What does Little Toomai imagine will happen to Kala Nag when he becomes old?",
+    "retrieved_chunk_ids": [
+      "7771d142-59b6-40da-a75a-5bd4157df5dc",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "4d453b48-0230-46d8-992c-4027535069b1",
+      "6816d47a-2747-45a9-bb66-1b161ef9595c",
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2"
+    ],
+    "retrieved_similarities": [
+      0.5681343762754525,
+      0.5598307347449065,
+      0.5200369334176895,
+      0.5177076437821849,
+      0.4835163672546937
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5681343762754525,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 857
+  },
+  {
+    "chunk_id": "7c70cc2c-875a-4698-b399-567e49d97c5e",
+    "question": "What did Little Toomai do one night that got him scolded by Big Toomai?",
+    "retrieved_chunk_ids": [
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "21308825-9dfa-4b3c-a85b-080c2b245645",
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+      "7771d142-59b6-40da-a75a-5bd4157df5dc",
+      "b73aea1e-443d-42b1-b526-95df7f1fb0e6"
+    ],
+    "retrieved_similarities": [
+      0.49389760214395717,
+      0.4614463288023025,
+      0.46079021925984587,
+      0.4491763279087464,
+      0.4453225531597349
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.49389760214395717,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 766
+  },
+  {
+    "chunk_id": "bafe95bc-3ce9-4304-a63b-31719d59d37e",
+    "question": "What did Little Toomai do during the last drive in the Keddah that caught Petersen Sahib's attention?",
+    "retrieved_chunk_ids": [
+      "bafe95bc-3ce9-4304-a63b-31719d59d37e",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "21308825-9dfa-4b3c-a85b-080c2b245645",
+      "b73aea1e-443d-42b1-b526-95df7f1fb0e6",
+      "cfb160e9-ac1e-47e8-80b2-d7baca7081c0"
+    ],
+    "retrieved_similarities": [
+      0.5376350168259478,
+      0.5226365950866464,
+      0.48732456338248786,
+      0.47450421826529887,
+      0.47044779272222426
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5376350168259478,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1002
+  },
+  {
+    "chunk_id": "b73aea1e-443d-42b1-b526-95df7f1fb0e6",
+    "question": "What did Petersen Sahib say would be the proper time for Little Toomai to go into the Keddahs?",
+    "retrieved_chunk_ids": [
+      "bafe95bc-3ce9-4304-a63b-31719d59d37e",
+      "21308825-9dfa-4b3c-a85b-080c2b245645",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "b73aea1e-443d-42b1-b526-95df7f1fb0e6",
+      "6816d47a-2747-45a9-bb66-1b161ef9595c"
+    ],
+    "retrieved_similarities": [
+      0.45438212972007586,
+      0.4443218906830211,
+      0.43026273991723696,
+      0.416161830377034,
+      0.3918219104131684
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 4,
+      "similarity_score": 0.416161830377034,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.0,
+      "recall_at_3": 0.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1005
+  },
+  {
+    "chunk_id": "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+    "question": "What did Little Toomai do with the tom-tom that made him happy?",
+    "retrieved_chunk_ids": [
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "21308825-9dfa-4b3c-a85b-080c2b245645",
+      "b73aea1e-443d-42b1-b526-95df7f1fb0e6",
+      "7771d142-59b6-40da-a75a-5bd4157df5dc"
+    ],
+    "retrieved_similarities": [
+      0.4735516325502622,
+      0.44775439954536145,
+      0.43962372659516014,
+      0.40762697321886376,
+      0.4071151492859395
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.4735516325502622,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 948
+  },
+  {
+    "chunk_id": "4d453b48-0230-46d8-992c-4027535069b1",
+    "question": "What did Little Toomai hear that indicated other elephants were nearby while he was with Kala Nag?",
+    "retrieved_chunk_ids": [
+      "6816d47a-2747-45a9-bb66-1b161ef9595c",
+      "cfb160e9-ac1e-47e8-80b2-d7baca7081c0",
+      "4d453b48-0230-46d8-992c-4027535069b1",
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e"
+    ],
+    "retrieved_similarities": [
+      0.665834565932589,
+      0.6370767761148008,
+      0.620744842909123,
+      0.6170426194978543,
+      0.6132597096717185
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 3,
+      "similarity_score": 0.620744842909123,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1023
+  },
+  {
+    "chunk_id": "cfb160e9-ac1e-47e8-80b2-d7baca7081c0",
+    "question": "What did Little Toomai see in the clearing that indicated many elephants had been there recently?",
+    "retrieved_chunk_ids": [
+      "6816d47a-2747-45a9-bb66-1b161ef9595c",
+      "cfb160e9-ac1e-47e8-80b2-d7baca7081c0",
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "21308825-9dfa-4b3c-a85b-080c2b245645"
+    ],
+    "retrieved_similarities": [
+      0.6242524943577518,
+      0.6033569754170537,
+      0.5733755147494859,
+      0.5719573583552082,
+      0.5694804613853326
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.6033569754170537,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 957
+  },
+  {
+    "chunk_id": "6816d47a-2747-45a9-bb66-1b161ef9595c",
+    "question": "What did Little Toomai realize had happened to the clearing after the elephants finished their stamping?",
+    "retrieved_chunk_ids": [
+      "6816d47a-2747-45a9-bb66-1b161ef9595c",
+      "cfb160e9-ac1e-47e8-80b2-d7baca7081c0",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+      "21308825-9dfa-4b3c-a85b-080c2b245645"
+    ],
+    "retrieved_similarities": [
+      0.661590180017924,
+      0.6084213827784806,
+      0.5895786247536641,
+      0.5787925532358923,
+      0.5669099439815075
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.661590180017924,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 985
+  },
+  {
+    "chunk_id": "2b8a3316-e217-4c66-9e23-eafb0c3f8e8d",
+    "question": "What did Little Toomai claim to have seen that made him so excited, and how did he prove it?",
+    "retrieved_chunk_ids": [
+      "21308825-9dfa-4b3c-a85b-080c2b245645",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "2b8a3316-e217-4c66-9e23-eafb0c3f8e8d",
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+      "bafe95bc-3ce9-4304-a63b-31719d59d37e"
+    ],
+    "retrieved_similarities": [
+      0.4657917777958084,
+      0.4515317274750765,
+      0.44069210048365703,
+      0.43102742063672606,
+      0.40870053664439765
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 3,
+      "similarity_score": 0.44069210048365703,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 826
+  },
+  {
+    "chunk_id": "21308825-9dfa-4b3c-a85b-080c2b245645",
+    "question": "What new name was given to Little Toomai by Machua Appa?",
+    "retrieved_chunk_ids": [
+      "21308825-9dfa-4b3c-a85b-080c2b245645",
+      "bafe95bc-3ce9-4304-a63b-31719d59d37e",
+      "7c70cc2c-875a-4698-b399-567e49d97c5e",
+      "9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2",
+      "7771d142-59b6-40da-a75a-5bd4157df5dc"
+    ],
+    "retrieved_similarities": [
+      0.560126004245342,
+      0.4673958679909582,
+      0.46609071881930997,
+      0.4630511359037356,
+      0.43676406692923286
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.560126004245342,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 525
+  },
+  {
+    "chunk_id": "47264ee6-89fc-4a48-9ad8-8ee735340e7d",
+    "question": "What did Parbati hide in her breast to trick Shiv?",
+    "retrieved_chunk_ids": [
+      "47264ee6-89fc-4a48-9ad8-8ee735340e7d",
+      "dd5a32ca-b828-4167-9fed-afc215b31716",
+      "ead5c907-d7bd-48a6-b1ff-45b96dea9a02",
+      "fbd90700-76d9-497c-82c4-06704751c745",
+      "3c91a649-b0d9-4001-9782-0f4efaf8ddfe"
+    ],
+    "retrieved_similarities": [
+      0.5035097448971964,
+      0.35538007947088324,
+      0.35407816308504003,
+      0.3401377111878683,
+      0.3146208447669929
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5035097448971964,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 405
+  },
+  {
+    "chunk_id": "3a748c5d-4df9-4731-ad94-4b68fa063a8f",
+    "question": "What did the mule say to the camel after the camel disturbed the camp?",
+    "retrieved_chunk_ids": [
+      "3a748c5d-4df9-4731-ad94-4b68fa063a8f",
+      "9ea2e1f7-54ff-4bff-8d8b-886c4826e241",
+      "621febd5-97e7-4f99-a5a8-5015cfc311b3",
+      "657f946c-16da-45a8-835c-f90dea58a1d4",
+      "a7225a57-e72e-4ec4-a066-e8304a12d04b"
+    ],
+    "retrieved_similarities": [
+      0.6038127417787664,
+      0.5471499292343822,
+      0.5204803372002087,
+      0.5104113817214966,
+      0.4735711546455471
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6038127417787664,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1018
+  },
+  {
+    "chunk_id": "9ea2e1f7-54ff-4bff-8d8b-886c4826e241",
+    "question": "What did the young mule see that made him frightened and run away?",
+    "retrieved_chunk_ids": [
+      "b7f03421-c318-4c53-8aae-fefb80c9a7b7",
+      "3a748c5d-4df9-4731-ad94-4b68fa063a8f",
+      "9ea2e1f7-54ff-4bff-8d8b-886c4826e241",
+      "657f946c-16da-45a8-835c-f90dea58a1d4",
+      "36f18ef8-80a0-4c01-8559-cd89b9110c0e"
+    ],
+    "retrieved_similarities": [
+      0.521155284746464,
+      0.5041829047094125,
+      0.4919528057518966,
+      0.4733954652187513,
+      0.4684735219760856
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 3,
+      "similarity_score": 0.4919528057518966,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1000
+  },
+  {
+    "chunk_id": "b7f03421-c318-4c53-8aae-fefb80c9a7b7",
+    "question": "What does the troop-horse mean by being \"bridle-wise\"?",
+    "retrieved_chunk_ids": [
+      "b7f03421-c318-4c53-8aae-fefb80c9a7b7",
+      "dfa885d6-aa20-42e9-b20e-5b14982d950f",
+      "9ea2e1f7-54ff-4bff-8d8b-886c4826e241",
+      "a7225a57-e72e-4ec4-a066-e8304a12d04b",
+      "657f946c-16da-45a8-835c-f90dea58a1d4"
+    ],
+    "retrieved_similarities": [
+      0.516394930540762,
+      0.40273594897031184,
+      0.40210796632313195,
+      0.3903868794441334,
+      0.3896407055426513
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.516394930540762,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 895
+  },
+  {
+    "chunk_id": "657f946c-16da-45a8-835c-f90dea58a1d4",
+    "question": "What do the two yoke of bullocks say is the proper way to fight?",
+    "retrieved_chunk_ids": [
+      "657f946c-16da-45a8-835c-f90dea58a1d4",
+      "b7f03421-c318-4c53-8aae-fefb80c9a7b7",
+      "621febd5-97e7-4f99-a5a8-5015cfc311b3",
+      "dfa885d6-aa20-42e9-b20e-5b14982d950f",
+      "9ea2e1f7-54ff-4bff-8d8b-886c4826e241"
+    ],
+    "retrieved_similarities": [
+      0.5074298968994776,
+      0.4176434203109114,
+      0.41763138771058317,
+      0.4001446604599407,
+      0.393304175537582
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5074298968994776,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 981
+  },
+  {
+    "chunk_id": "dfa885d6-aa20-42e9-b20e-5b14982d950f",
+    "question": "What did Two Tails say his battery captain called him?",
+    "retrieved_chunk_ids": [
+      "dfa885d6-aa20-42e9-b20e-5b14982d950f",
+      "a7225a57-e72e-4ec4-a066-e8304a12d04b",
+      "621febd5-97e7-4f99-a5a8-5015cfc311b3",
+      "657f946c-16da-45a8-835c-f90dea58a1d4",
+      "9ea2e1f7-54ff-4bff-8d8b-886c4826e241"
+    ],
+    "retrieved_similarities": [
+      0.4449879196279001,
+      0.3927923387772778,
+      0.3907351182006491,
+      0.3843185122108017,
+      0.3693984183131236
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.4449879196279001,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1005
+  },
+  {
+    "chunk_id": "621febd5-97e7-4f99-a5a8-5015cfc311b3",
+    "question": "What did the bullocks say about the red stuff that soaks into the ground?",
+    "retrieved_chunk_ids": [
+      "9ea2e1f7-54ff-4bff-8d8b-886c4826e241",
+      "621febd5-97e7-4f99-a5a8-5015cfc311b3",
+      "657f946c-16da-45a8-835c-f90dea58a1d4",
+      "a7225a57-e72e-4ec4-a066-e8304a12d04b",
+      "dfa885d6-aa20-42e9-b20e-5b14982d950f"
+    ],
+    "retrieved_similarities": [
+      0.43569220027555844,
+      0.4029791359572331,
+      0.4010686993917437,
+      0.40084435932240103,
+      0.3990728198929322
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 0,
+      "rank": 2,
+      "similarity_score": 0.4029791359572331,
+      "found": true,
+      "precision_at_1": 0.0,
+      "recall_at_1": 0.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 0
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 1010
+  },
+  {
+    "chunk_id": "a7225a57-e72e-4ec4-a066-e8304a12d04b",
+    "question": "What does Vixen say about the color of the bullock-driver who looks after her?",
+    "retrieved_chunk_ids": [
+      "a7225a57-e72e-4ec4-a066-e8304a12d04b",
+      "621febd5-97e7-4f99-a5a8-5015cfc311b3",
+      "657f946c-16da-45a8-835c-f90dea58a1d4",
+      "dfa885d6-aa20-42e9-b20e-5b14982d950f",
+      "b7f03421-c318-4c53-8aae-fefb80c9a7b7"
+    ],
+    "retrieved_similarities": [
+      0.4115510337620423,
+      0.37206215358891914,
+      0.3644799509334542,
+      0.35234427622058495,
+      0.35233852437184987
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.4115510337620423,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 889
+  },
+  {
+    "chunk_id": "de71aa44-c7b0-49bc-81eb-e63c5ae8a155",
+    "question": "What did the old Central Asian chief ask the native officer about the animals in the parade?",
+    "retrieved_chunk_ids": [
+      "de71aa44-c7b0-49bc-81eb-e63c5ae8a155",
+      "ecdd0d47-002a-4cba-83a4-5b55ae11b26b",
+      "21308825-9dfa-4b3c-a85b-080c2b245645",
+      "b9660d70-631d-49b5-9275-59cbd183d2f4",
+      "7771d142-59b6-40da-a75a-5bd4157df5dc"
+    ],
+    "retrieved_similarities": [
+      0.5147080999960817,
+      0.4452102780342102,
+      0.44161940589124793,
+      0.43927329778671265,
+      0.437778545551853
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.5147080999960817,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 919
+  },
+  {
+    "chunk_id": "58edc17e-212e-4af3-be48-375d32bb76c3",
+    "question": "What do the Commissariat Camels use as their marching-song?",
+    "retrieved_chunk_ids": [
+      "58edc17e-212e-4af3-be48-375d32bb76c3",
+      "9ea2e1f7-54ff-4bff-8d8b-886c4826e241",
+      "3a748c5d-4df9-4731-ad94-4b68fa063a8f",
+      "de71aa44-c7b0-49bc-81eb-e63c5ae8a155",
+      "a7225a57-e72e-4ec4-a066-e8304a12d04b"
+    ],
+    "retrieved_similarities": [
+      0.6048057314869336,
+      0.44707646650531774,
+      0.4380788876916335,
+      0.43307361804561706,
+      0.4060402028512742
+    ],
+    "metrics": {
+      "hit_rate_at_k": 1,
+      "first_position_accuracy": 1,
+      "rank": 1,
+      "similarity_score": 0.6048057314869336,
+      "found": true,
+      "precision_at_1": 1.0,
+      "recall_at_1": 1.0,
+      "precision_at_3": 0.3333333333333333,
+      "recall_at_3": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "top_k_recall": 1,
+      "top_1_precision": 1
+    },
+    "chunking_strategy": "semantic",
+    "token_count": 592
+  }
+]

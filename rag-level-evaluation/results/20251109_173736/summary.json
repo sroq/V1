@@ -1,0 +1,236 @@
+{
+  "total_queries": 78,
+  "hit_rate_at_k_percentage": 94.87179487179486,
+  "first_position_accuracy_percentage": 62.82051282051282,
+  "average_rank": 1.5,
+  "average_similarity": 0.5715568044123798,
+  "found_count": 74,
+  "found_percentage": 94.87179487179486,
+  "mrr": 0.7675213675213676,
+  "avg_precision_at_1": 0.6282051282051282,
+  "avg_precision_at_3": 0.3034188034188033,
+  "avg_precision_at_5": 0.18974358974358965,
+  "avg_precision_at_10": 0.09487179487179483,
+  "avg_recall_at_1": 0.6282051282051282,
+  "avg_recall_at_3": 0.9102564102564102,
+  "avg_recall_at_5": 0.9487179487179487,
+  "avg_recall_at_10": 0.9487179487179487,
+  "top_k_recall_percentage": 94.87179487179486,
+  "top_1_precision_percentage": 62.82051282051282,
+  "embedding_quality": {
+    "relevant_similarity_mean": 0.5715568044123798,
+    "irrelevant_similarity_mean": 0.5216873655462028,
+    "separation_margin": 0.04986943886617701,
+    "relevant_similarity_std": 0.08233268084038534,
+    "irrelevant_similarity_std": 0.08647165411880318,
+    "relevant_count": 74,
+    "irrelevant_count": 313,
+    "roc_auc": 0.6629824712891806
+  },
+  "chunk_quality": {
+    "size_consistency": {
+      "csci": 0.7420744107512751,
+      "mean_chunk_size": 867.8846153846154,
+      "std_chunk_size": 223.84965082297987,
+      "min_chunk_size": 14,
+      "max_chunk_size": 1024,
+      "chunk_count": 78
+    },
+    "retrieval_by_size_bucket": {
+      "tiny": {
+        "hit_rate": 1.0,
+        "avg_rank": 1.0,
+        "avg_similarity": 0.7422945210582589,
+        "first_position_accuracy": 1.0,
+        "chunk_count": 1,
+        "token_count_mean": 14.0,
+        "token_count_std": 0.0
+      },
+      "small": {
+        "hit_rate": 1.0,
+        "avg_rank": 1.0,
+        "avg_similarity": 0.6134492218778326,
+        "first_position_accuracy": 1.0,
+        "chunk_count": 3,
+        "token_count_mean": 229.66666666666666,
+        "token_count_std": 47.359147890232244
+      },
+      "medium": {
+        "hit_rate": 1.0,
+        "avg_rank": 1.4285714285714286,
+        "avg_similarity": 0.5953343704197718,
+        "first_position_accuracy": 0.7142857142857143,
+        "chunk_count": 7,
+        "token_count_mean": 471.57142857142856,
+        "token_count_std": 82.10595444364581
+      },
+      "large": {
+        "hit_rate": 0.9130434782608695,
+        "avg_rank": 1.380952380952381,
+        "avg_similarity": 0.569753342917374,
+        "first_position_accuracy": 0.6304347826086957,
+        "chunk_count": 46,
+        "token_count_mean": 923.695652173913,
+        "token_count_std": 71.92504237208931
+      },
+      "xlarge": {
+        "hit_rate": 1.0,
+        "avg_rank": 1.8571428571428572,
+        "avg_similarity": 0.5531228735407734,
+        "first_position_accuracy": 0.5238095238095238,
+        "chunk_count": 21,
+        "token_count_mean": 1009.5714285714286,
+        "token_count_std": 7.537660547584524
+      }
+    },
+    "position_stability": {
+      "top_stable_chunks": [
+        {
+          "chunk_id": "b73aea1e-443d-42b1-b526-95df7f1fb0e6",
+          "appearances": 4,
+          "mean_rank": 4.25,
+          "std_rank": 0.4330127018922193,
+          "pss": 0.8981146583783013
+        },
+        {
+          "chunk_id": "4d453b48-0230-46d8-992c-4027535069b1",
+          "appearances": 4,
+          "mean_rank": 3.25,
+          "std_rank": 0.4330127018922193,
+          "pss": 0.8667653224947017
+        },
+        {
+          "chunk_id": "2b8a3316-e217-4c66-9e23-eafb0c3f8e8d",
+          "appearances": 2,
+          "mean_rank": 3.5,
+          "std_rank": 0.5,
+          "pss": 0.8571428571428572
+        },
+        {
+          "chunk_id": "621febd5-97e7-4f99-a5a8-5015cfc311b3",
+          "appearances": 5,
+          "mean_rank": 2.6,
+          "std_rank": 0.4898979485566356,
+          "pss": 0.8115777120936016
+        },
+        {
+          "chunk_id": "7a846e8e-61a2-4fbb-99e5-3a5221a23be9",
+          "appearances": 2,
+          "mean_rank": 2.5,
+          "std_rank": 0.5,
+          "pss": 0.8
+        },
+        {
+          "chunk_id": "3dc85c84-2f03-40e5-95a0-714bd70d0e81",
+          "appearances": 9,
+          "mean_rank": 4.111111111111111,
+          "std_rank": 0.9938079899999066,
+          "pss": 0.7582629213513741
+        },
+        {
+          "chunk_id": "b24e4257-2402-4644-a318-b680acf364cf",
+          "appearances": 6,
+          "mean_rank": 3.0,
+          "std_rank": 0.816496580927726,
+          "pss": 0.7278344730240913
+        },
+        {
+          "chunk_id": "7b029954-e578-41d2-ba63-a08e299866cb",
+          "appearances": 3,
+          "mean_rank": 3.0,
+          "std_rank": 0.816496580927726,
+          "pss": 0.7278344730240913
+        },
+        {
+          "chunk_id": "a67d1f1b-9fb4-4215-b548-4ad34fa10536",
+          "appearances": 4,
+          "mean_rank": 3.75,
+          "std_rank": 1.0897247358851685,
+          "pss": 0.7094067370972884
+        },
+        {
+          "chunk_id": "e118b491-c3e0-4b70-9d17-89d608de56d2",
+          "appearances": 4,
+          "mean_rank": 3.75,
+          "std_rank": 1.0897247358851685,
+          "pss": 0.7094067370972884
+        }
+      ],
+      "top_unstable_chunks": [
+        {
+          "chunk_id": "b7f03421-c318-4c53-8aae-fefb80c9a7b7",
+          "appearances": 4,
+          "mean_rank": 2.25,
+          "std_rank": 1.6393596310755,
+          "pss": 0.2713957195219999
+        },
+        {
+          "chunk_id": "6816d47a-2747-45a9-bb66-1b161ef9595c",
+          "appearances": 5,
+          "mean_rank": 2.4,
+          "std_rank": 1.7435595774162693,
+          "pss": 0.2735168427432211
+        },
+        {
+          "chunk_id": "bafe95bc-3ce9-4304-a63b-31719d59d37e",
+          "appearances": 5,
+          "mean_rank": 2.8,
+          "std_rank": 1.8330302779823362,
+          "pss": 0.3453463292920227
+        },
+        {
+          "chunk_id": "3c91a649-b0d9-4001-9782-0f4efaf8ddfe",
+          "appearances": 5,
+          "mean_rank": 2.8,
+          "std_rank": 1.8330302779823362,
+          "pss": 0.3453463292920227
+        },
+        {
+          "chunk_id": "771dcac8-450d-488a-9889-8f60d14959a4",
+          "appearances": 3,
+          "mean_rank": 2.6666666666666665,
+          "std_rank": 1.699673171197595,
+          "pss": 0.3626225608009018
+        },
+        {
+          "chunk_id": "d0627920-a254-47db-9db8-f68e40b2ecc4",
+          "appearances": 3,
+          "mean_rank": 2.6666666666666665,
+          "std_rank": 1.699673171197595,
+          "pss": 0.3626225608009018
+        },
+        {
+          "chunk_id": "77cf01c1-285e-4885-a82b-77e5ccdf8444",
+          "appearances": 10,
+          "mean_rank": 2.7,
+          "std_rank": 1.676305461424021,
+          "pss": 0.3791461253985108
+        },
+        {
+          "chunk_id": "17955493-17d2-4384-b3fc-ffe765949299",
+          "appearances": 8,
+          "mean_rank": 2.75,
+          "std_rank": 1.6393596310755,
+          "pss": 0.40386922506345446
+        },
+        {
+          "chunk_id": "5281b368-0a70-411b-88a7-43bfb17f2faa",
+          "appearances": 6,
+          "mean_rank": 2.6666666666666665,
+          "std_rank": 1.49071198499986,
+          "pss": 0.44098300562505244
+        },
+        {
+          "chunk_id": "de71aa44-c7b0-49bc-81eb-e63c5ae8a155",
+          "appearances": 3,
+          "mean_rank": 2.3333333333333335,
+          "std_rank": 1.247219128924647,
+          "pss": 0.4654775161751513
+        }
+      ],
+      "overall_stability_mean": 0.5838225480148207,
+      "overall_stability_std": 0.13464695567183416,
+      "chunks_analyzed": 66
+    }
+  }
+}

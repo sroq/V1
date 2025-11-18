@@ -1,0 +1,79 @@
+chunk_id,question,chunking_strategy,token_count,hit_rate_at_k,first_position_accuracy,rank,similarity_score,found,precision_at_1,precision_at_3,precision_at_5,precision_at_10,recall_at_1,recall_at_3,recall_at_5,recall_at_10,top_k_recall,top_1_precision
+752db7d8-9a5f-45c6-958b-025b59d39d70,"Who is the author of ""The Jungle Book""?",semantic,14,1,1,1.0,0.7423046827316337,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+2f106bda-fac4-4dd1-9ec6-5180d26e0304,What does Tabaqui find to eat in Father Wolf's cave?,semantic,1012,1,1,1.0,0.4953558740231925,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+1c2fe2bd-5bcc-469e-935e-45990b953277,What did Father Wolf think about Shere Khan's request for the man's cub?,semantic,1015,1,0,2.0,0.6540574247768658,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+5281b368-0a70-411b-88a7-43bfb17f2faa,What does the Law of the Jungle require a wolf to do when his cubs are old enough?,semantic,760,1,1,1.0,0.603411519324094,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+f396c4c5-1a1f-428c-b61e-7a16032cf324,What did Bagheera propose regarding the life of the man's cub at the Pack Council?,semantic,1018,1,1,1.0,0.6188287507789594,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+220a3705-5a7d-4987-8875-3d5b95a5fb57,What was the price paid for Mowgli to be accepted into the Seeonee Wolf Pack?,semantic,448,1,1,1.0,0.6417352984267117,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+e6a21f74-1c6b-4a8d-877b-eddc14bd5a06,What did Bagheera teach Mowgli about the Law of the Jungle regarding cattle?,semantic,991,1,1,1.0,0.6349187332488662,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+7a846e8e-61a2-4fbb-99e5-3a5221a23be9,What does Bagheera tell Mowgli about the reason the other wolves might want to kill him?,semantic,909,1,0,2.0,0.6208739691712294,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+77cf01c1-285e-4885-a82b-77e5ccdf8444,"What did Bagheera mean by the ""Red Flower""?",semantic,1016,1,1,1.0,0.4808559727158639,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+d9900e94-1cbe-4869-b696-6e24c89cd109,What did Mowgli do with the fire pot while sitting in the cave?,semantic,932,0,0,,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+b974662e-3088-43c9-8798-84dbe964508f,What does Mowgli promise to the Pack before he leaves them?,semantic,950,1,0,2.0,0.6409310912530976,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+81d1f337-0dc4-4ac5-beca-5108d20890e2,What did Mowgli promise to do when he returned to the jungle?,semantic,566,1,0,3.0,0.5897732132538098,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+648ab646-0060-44ae-9642-a5c06ab176c1,What did the Sambhur do as dawn was breaking in the Hunting-Song of the Seeonee Pack?,semantic,172,1,1,1.0,0.7164474085169447,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+10763cd2-758a-469b-9d0a-75ef5b9e972a,What did Baloo say to Bagheera when Mowgli had been cuffed and ran off in a temper?,semantic,1012,1,0,5.0,0.6034651342152203,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+a7e3241a-1bef-480d-9cf5-2c7220d6079b,What did the Monkey People offer Mowgli when they found him?,semantic,957,0,0,,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+23185e9a-b8ee-48c5-b2e0-de52fc5667e0,What did Baloo say about the Monkey-Folk and their way of life?,semantic,1001,1,1,1.0,0.6438689211489789,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+1ca1145a-c0c9-44b9-b89c-0aaa8bcca052,What did Mowgli shout to Rann the Kite while being swung through the air by the monkeys?,semantic,1003,1,1,1.0,0.6528581380844116,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+7b029954-e578-41d2-ba63-a08e299866cb,What did Baloo wish he had done instead of breaking Mowgli's head?,semantic,968,0,0,,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+6565dcc7-e3d8-4540-844a-9ad623cd3a61,What did Kaa say about the Bandar-log's behavior towards the man-cub?,semantic,998,1,1,1.0,0.6177327264706755,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+d0b16fc2-dcad-451b-af11-4d5376791cd4,What did Rann the Kite tell Baloo about Mowgli's whereabouts?,semantic,1001,1,0,2.0,0.5534982947410257,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+dfd2168c-ea5b-4105-85b1-09c02a783020,What did Mowgli wish for when he felt sore and angry after being captured by the monkeys?,semantic,922,1,0,2.0,0.6007756769888307,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+17955493-17d2-4384-b3fc-ffe765949299,What did the monkeys do when they saw Bagheera on the terrace?,semantic,1001,1,1,1.0,0.5616448615510948,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+a67d1f1b-9fb4-4215-b548-4ad34fa10536,What did Bagheera do when he realized he needed protection during the fight with the monkeys?,semantic,967,1,0,2.0,0.5654443592926005,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+b24e4257-2402-4644-a318-b680acf364cf,What did Mowgli promise Kaa after being saved from the trap?,semantic,1000,1,0,2.0,0.6019441126618329,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+ec4df422-f494-489f-8a89-38e044c2baf1,What did Kaa ask the monkeys before beginning the Dance of the Hunger?,semantic,930,1,1,1.0,0.5720532195536455,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+ce25fca7-cb5f-43ce-ae2e-7313a4009c36,What did Mowgli do that caused trouble for Baloo and Bagheera?,semantic,377,1,0,2.0,0.623131141289341,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+beeaf5c0-62cf-4076-9dc9-477a81d91fa4,What do the Bandar-Log wish they could do in a minute or two?,semantic,288,1,1,1.0,0.4096859151312171,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+3dc85c84-2f03-40e5-95a0-714bd70d0e81,What did Mowgli think about the way the villagers behaved when they saw him?,semantic,970,1,0,4.0,0.6082960935786136,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+d1a95788-f224-4d7e-8a3b-64d4b6a9ff27,What did Messua remember that made her think Mowgli might be her son Nathoo?,semantic,974,1,1,1.0,0.5907470692094647,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+e952eefb-66c8-4af3-9b83-e61656ab15ce,What did Mowgli think about Buldeo's stories of the tiger and the ghost of the money-lender?,semantic,876,1,1,1.0,0.6980969337907675,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+b9660d70-631d-49b5-9275-59cbd183d2f4,What did Mowgli tell Kamya to do while he went on with the buffaloes?,semantic,971,1,1,1.0,0.6581659701713948,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+3c91a649-b0d9-4001-9782-0f4efaf8ddfe,What did Mowgli ask Gray Brother to do with the herd before they confronted Shere Khan?,semantic,1008,1,1,1.0,0.6477917239728083,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+e118b491-c3e0-4b70-9d17-89d608de56d2,What was Mowgli's plan for dealing with Shere Khan using the bulls?,semantic,696,1,0,2.0,0.6170989826708125,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+dd5a32ca-b828-4167-9fed-afc215b31716,What did Buldeo plan to do with Shere Khan's skin after Mowgli skinned the tiger?,semantic,1014,1,1,1.0,0.6301320350327578,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+36f18ef8-80a0-4c01-8559-cd89b9110c0e,What did Buldeo tell the villagers about Mowgli that made them react with fear?,semantic,980,1,0,2.0,0.628628529824528,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+431ac16d-8a1b-4f6e-8560-1f298fa630b4,What did Mowgli bring to the Council Rock to keep his word?,semantic,900,0,0,,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0
+bd244808-a3f7-4d3c-a53f-37b5a9ab20e7,What does Mowgli sing about at the Council Rock?,semantic,753,1,1,1.0,0.679069478567275,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+83579035-ac57-4055-883d-6c9326b63ace,What did Sea Catch do after he finished his forty-fifth fight in the spring?,semantic,997,1,1,1.0,0.40349186617233257,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+d0627920-a254-47db-9db8-f68e40b2ecc4,"What did Matkah sing to her baby seal, Kotick?",semantic,975,1,1,1.0,0.6452168226242065,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+71029a69-b4f1-4f7d-8102-1e835d40ced9,What did Matkah teach Kotick about the meaning of a tingling tail while swimming?,semantic,986,1,1,1.0,0.5345873791471267,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+da620921-dcdd-44a7-b3d3-fb0c3f27aca6,What did Kotick feel as he remembered the beaches of Novastoshnah while lying in the water off the Island of Juan Fernandez?,semantic,996,1,0,2.0,0.46402891087446885,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+4cfd58e9-d4d8-485e-b902-e9270c734fed,What did the Sea Lion suggest Kotick do after he expressed his feelings about the killing of the seals?,semantic,977,1,1,1.0,0.5445268047984112,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+63f35065-030a-4100-b0e4-ef04fca4197f,What did Kotick hope to find in his search across the sea?,semantic,990,1,0,2.0,0.48025900478500816,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+dd9122d3-ce4c-4bf8-a924-3004f76c4cca,What did the old seal tell Kotick about the Lost Rookery of Masafuera?,semantic,929,1,1,1.0,0.5492137074470677,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+57106ae4-bafc-411d-b5ec-de61f3e2bfe1,What unique feature prevents Sea Cow from being able to talk?,semantic,955,1,1,1.0,0.42501601129865785,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+9b43b332-7ec1-4dcc-ada7-4f0203842b60,What did Kotick discover that made him believe he found a safe place for the seals?,semantic,886,1,1,1.0,0.5248074873937654,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+2e5fa6b3-37f1-40fd-91ab-9b53e3836a6e,What did Kotick do after he taught the other seals their lesson following the fight?,semantic,813,1,1,1.0,0.5508064895387605,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+76a7c36d-57bc-4678-8001-85851c89fa53,"What is the significance of the song ""Lukannon"" to the St. Paul seals?",semantic,388,1,1,1.0,0.6443935208789777,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+771dcac8-450d-488a-9889-8f60d14959a4,What did the big man do when he found Rikki-tikki-Tavi?,semantic,862,1,1,1.0,0.6405502986251997,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+f6791ca1-0a68-442f-87a4-99d024ed9972,What does Rikki-tikki do when he first encounters Nag in the garden?,semantic,968,1,0,2.0,0.620424124661705,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+af227ae7-9ea9-4376-8a75-f89a9ddb1ff0,"What did Rikki-tikki do when he heard the tiny voice saying, ""Be careful. I am Death!""?",semantic,930,1,0,2.0,0.5802111625671387,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+f0759aae-9d28-401a-8d02-48d82aa0e529,What did Nagaina say to Nag about the big man who killed Karait?,semantic,1024,1,0,3.0,0.4521666467189821,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+4bc5e41f-6284-4c71-9c82-1b97d3f67b3a,What happened to Nag after Rikki-tikki attacked him?,semantic,962,1,1,1.0,0.6685105761441834,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+fbd90700-76d9-497c-82c4-06704751c745,How many eggs did Rikki-tikki find in the melon patch?,semantic,1013,1,0,2.0,0.5008032323845067,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+ead5c907-d7bd-48a6-b1ff-45b96dea9a02,What did Nagaina say she would do if Rikki-tikki gave her the last egg?,semantic,982,1,1,1.0,0.6360913460418054,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+cb3353b1-5ed2-4dad-9a95-aeecd203528a,What did Rikki-tikki plan to tell the Coppersmith after he defeated Nagaina?,semantic,958,1,1,1.0,0.6126167870849254,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+917182e3-4d8e-463c-8d17-76269a43ac3b,What are the notable characteristics of Rikki-tikki-tavi mentioned in Darzee's chant?,semantic,229,1,1,1.0,0.7140833522652736,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+ecdd0d47-002a-4cba-83a4-5b55ae11b26b,What was Kala Nag's age when he was caught and how long had he served the Indian Government by the time of the narrative?,semantic,897,1,1,1.0,0.5217707131182334,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+7771d142-59b6-40da-a75a-5bd4157df5dc,What does Little Toomai imagine will happen to Kala Nag when he becomes old?,semantic,857,1,1,1.0,0.5681154043777651,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+7c70cc2c-875a-4698-b399-567e49d97c5e,What did Little Toomai do one night that got him scolded by Big Toomai?,semantic,766,1,1,1.0,0.49386244975700677,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+bafe95bc-3ce9-4304-a63b-31719d59d37e,What did Little Toomai do during the last drive in the Keddah that caught Petersen Sahib's attention?,semantic,1002,1,1,1.0,0.5376350168259478,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+b73aea1e-443d-42b1-b526-95df7f1fb0e6,What did Petersen Sahib say would be the proper time for Little Toomai to go into the Keddahs?,semantic,1005,1,0,4.0,0.416161830377034,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+9ff66c72-6b0d-4ec7-bc2b-51ab9f2e55e2,What did Little Toomai do with the tom-tom that made him happy?,semantic,948,1,1,1.0,0.4735516325502622,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+4d453b48-0230-46d8-992c-4027535069b1,What did Little Toomai hear that indicated other elephants were nearby while he was with Kala Nag?,semantic,1023,1,0,3.0,0.620744842909123,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+cfb160e9-ac1e-47e8-80b2-d7baca7081c0,What did Little Toomai see in the clearing that indicated many elephants had been there recently?,semantic,957,1,0,2.0,0.603404175626486,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+6816d47a-2747-45a9-bb66-1b161ef9595c,What did Little Toomai realize had happened to the clearing after the elephants finished their stamping?,semantic,985,1,1,1.0,0.661590180017924,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+2b8a3316-e217-4c66-9e23-eafb0c3f8e8d,"What did Little Toomai claim to have seen that made him so excited, and how did he prove it?",semantic,826,1,0,3.0,0.4406769669661197,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+21308825-9dfa-4b3c-a85b-080c2b245645,What new name was given to Little Toomai by Machua Appa?,semantic,525,1,1,1.0,0.560126004245342,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+47264ee6-89fc-4a48-9ad8-8ee735340e7d,What did Parbati hide in her breast to trick Shiv?,semantic,405,1,1,1.0,0.5034705550512839,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+3a748c5d-4df9-4731-ad94-4b68fa063a8f,What did the mule say to the camel after the camel disturbed the camp?,semantic,1018,1,1,1.0,0.6038127417787664,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+9ea2e1f7-54ff-4bff-8d8b-886c4826e241,What did the young mule see that made him frightened and run away?,semantic,1000,1,0,3.0,0.4919505109727992,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+b7f03421-c318-4c53-8aae-fefb80c9a7b7,"What does the troop-horse mean by being ""bridle-wise""?",semantic,895,1,1,1.0,0.516394930540762,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+657f946c-16da-45a8-835c-f90dea58a1d4,What do the two yoke of bullocks say is the proper way to fight?,semantic,981,1,1,1.0,0.5074298968994776,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+dfa885d6-aa20-42e9-b20e-5b14982d950f,What did Two Tails say his battery captain called him?,semantic,1005,1,1,1.0,0.4449879196279001,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+621febd5-97e7-4f99-a5a8-5015cfc311b3,What did the bullocks say about the red stuff that soaks into the ground?,semantic,1010,1,0,2.0,0.40303073579622617,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0
+a7225a57-e72e-4ec4-a066-e8304a12d04b,What does Vixen say about the color of the bullock-driver who looks after her?,semantic,889,1,1,1.0,0.4115510337620423,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+de71aa44-c7b0-49bc-81eb-e63c5ae8a155,What did the old Central Asian chief ask the native officer about the animals in the parade?,semantic,919,1,1,1.0,0.5146811893772453,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
+58edc17e-212e-4af3-be48-375d32bb76c3,What do the Commissariat Camels use as their marching-song?,semantic,592,1,1,1.0,0.6048057314869336,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1
