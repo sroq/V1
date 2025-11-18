@@ -1,0 +1,125 @@
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+secrets.md
+CLAUDE.md
+
+# Claude Code configuration
+.claude/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+package-lock.json
+yarn.lock
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-workspace
+*.sublime-project
+
+# Database & Data
+postgres-data/
+pgadmin-data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+chunking_pipeline.log
+
+# Progress tracking
+.chunking_progress.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Observability Data (can regenerate)
+jaeger-data/
+prometheus-data/
+grafana-data/
+signoz-config/
+
+# Evaluation Results (can regenerate)
+rag-level-evaluation/results/
+rag-level-evaluation/data/generated_questions.json
+rag-level-evaluation/data/evaluation_results.json
+single-turn-evaluation/results/
+single-turn-evaluation/data/
+multi-turn-evaluation/results/
+
+# Keep these files but exclude sensitive data
+!.env.example
+!.env.local.example
+
+# Keep demo scripts but not their execution outputs
+.demo-scripts/output/
+.demo-scripts/*.log

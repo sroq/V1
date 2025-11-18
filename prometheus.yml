@@ -1,0 +1,25 @@
+# Prometheus Configuration
+#
+# Ez a konfiguráció beállítja a Prometheus-t, hogy scrape-elje az OpenTelemetry Collector
+# által exportált metrics-et.
+
+global:
+  scrape_interval: 15s      # Scrape interval (15 seconds)
+  evaluation_interval: 15s  # Evaluation interval for recording rules
+
+  # External labels (opcionális, azonosítja ezt a Prometheus instance-t)
+  external_labels:
+    cluster: 'rag-assistant-dev'
+    environment: 'local'
+
+# Scrape configurations
+scrape_configs:
+  # OpenTelemetry Collector metrics endpoint
+  - job_name: 'otel-collector'
+    static_configs:
+      - targets: ['otel-collector:8889']
+        labels:
+          service: 'rag-assistant'
+
+    # Scrape interval override (optional)
+    scrape_interval: 10s

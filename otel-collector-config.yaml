@@ -1,0 +1,56 @@
+# OpenTelemetry Collector Configuration
+#
+# Ez a collector fogadja az alkalmazástól érkező OTLP telemetriát (traces + metrics)
+# és továbbítja a megfelelő backend-ekhez:
+# - Traces → Jaeger
+# - Metrics → Prometheus
+#
+# Architecture:
+#   Next.js App → OTLP HTTP (4318) → OTel Collector → Jaeger (traces) + Prometheus (metrics)
+
+receivers:
+  # OTLP Receiver: fogadja az OTLP formátumú telemetriát HTTP-n keresztül
+  otlp:
+    protocols:
+      http:
+        endpoint: 0.0.0.0:4318  # Listening on port 4318 (OTLP HTTP)
+      grpc:
+        endpoint: 0.0.0.0:4317  # Listening on port 4317 (OTLP gRPC)
+
+processors:
+  # Batch processor: telemetriát batch-eli exportálás előtt (hatékonyság)
+  batch:
+    timeout: 10s
+    send_batch_size: 1024
+
+exporters:
+  # Jaeger exporter: traces export Jaeger-be
+  otlp/jaeger:
+    endpoint: jaeger:4317  # Jaeger OTLP gRPC endpoint
+    tls:
+      insecure: true
+
+  # Prometheus exporter: metrics export Prometheus scrape formátumban
+  prometheus:
+    endpoint: 0.0.0.0:8889  # Prometheus scrape endpoint
+    namespace: rag_assistant
+    const_labels:
+      service: rag-assistant
+
+  # Logging exporter: debug célokra (console output)
+  logging:
+    loglevel: info
+
+service:
+  pipelines:
+    # Traces pipeline: OTLP → Batch → Jaeger
+    traces:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [otlp/jaeger, logging]
+
+    # Metrics pipeline: OTLP → Batch → Prometheus
+    metrics:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [prometheus, logging]

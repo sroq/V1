@@ -1,0 +1,97 @@
+# RAG Assistant Chunking Pipeline Configuration
+
+# Document Loading Settings
+document_loading:
+  supported_extensions:
+    - .pdf
+    - .docx
+    - .txt
+    - .md
+    - .html
+  recursive: true  # Recursively search directories
+  max_file_size_mb: 50  # Skip files larger than this
+
+# Chunking Strategy Settings
+chunking:
+  # Default strategy: fixed, semantic, recursive, document_specific
+  default_strategy: semantic
+
+  # Fixed-size chunking parameters
+  fixed_size:
+    chunk_size: 512  # tokens (~2000 characters)
+    chunk_overlap: 50  # tokens overlap between chunks
+
+  # Semantic chunking parameters
+  semantic:
+    max_chunk_size: 1024  # Maximum chunk size in tokens
+    respect_boundaries: true  # Respect paragraph/section boundaries
+    combine_short: true  # Combine short elements
+
+  # Recursive chunking parameters
+  recursive:
+    separators:
+      - "\n## "  # Markdown H2
+      - "\n### "  # Markdown H3
+      - "\n\n"  # Paragraph
+      - "\n"  # Line
+      - ". "  # Sentence
+      - " "  # Word
+    chunk_size: 512
+    chunk_overlap: 50
+
+  # Document-type specific chunking
+  document_specific:
+    markdown:
+      preserve_headings: true
+      chunk_by_section: true
+    pdf:
+      preserve_pages: true
+      extract_tables: true
+    code:
+      preserve_functions: true
+      language_aware: true
+
+# Metadata Extraction Settings
+metadata:
+  level: rich  # basic, standard, rich
+  extract_structure: true  # Extract headings, hierarchy
+  extract_page_numbers: true
+  extract_file_info: true
+  custom_fields: []  # Additional metadata fields
+
+# Embedding Generation Settings
+embeddings:
+  provider: openai
+  model: text-embedding-3-small
+  dimensions: 1536
+  batch_size: 100  # Number of chunks to embed per API call
+  max_retries: 3
+  retry_delay: 1.0  # seconds
+  timeout: 30  # seconds
+
+# Database Settings
+database:
+  host: localhost
+  port: 5432
+  database: rag_assistant
+  user: rag_user
+  password: rag_dev_password_2024
+
+  # Upload behavior
+  update_strategy: replace  # replace, version, upsert
+  batch_size: 500  # Chunks to insert per transaction
+
+# Processing Settings
+processing:
+  parallel: false  # Enable parallel processing (future feature)
+  max_workers: 4  # Number of parallel workers
+  progress_bar: true
+  save_progress: true  # Save progress for resume capability
+  progress_file: .chunking_progress.json
+
+# Logging Settings
+logging:
+  level: INFO  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: chunking_pipeline.log
+  console: true
