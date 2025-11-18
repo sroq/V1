@@ -1,3 +1,8 @@
+
+
+
+
+
 # RAG-Based AI Assistant System - Complete Guide
 
 Egy teljes körű RAG (Retrieval-Augmented Generation) alapú AI asszisztens rendszer dokumentum feldolgozás, vektoros keresés és összehangoló LLM-vel. Ez az útmutató végigvezet a telepítésen, konfiguráción és minden fő komponens használatán.
